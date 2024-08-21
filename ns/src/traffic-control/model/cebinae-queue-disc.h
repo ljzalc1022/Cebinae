@@ -9,6 +9,7 @@
 #include "ns3/ipv4-queue-disc-item.h"
 #include "ns3/my-source-id-tag.h"
 #include "ns3/queue-disc.h"
+#include "ns3/random-variable-stream.h"
 #include "ns3/simulator.h"
 
 namespace ns3 {
@@ -534,7 +535,7 @@ public:
       HEADQ_DROP,
       NEGHEADQ_ENQUEUE,
       NEGHEADQ_DROP,
-      LBF_DROP      
+      LBF_DROP // Leaky Bucket Filter
     };  
     class DebugStats {
       public:
@@ -701,6 +702,12 @@ private:
   std::vector<uint32_t> m_bottlenecked_flows_set {};
 
   bool m_pool;
+
+  // a simplified RED mechanism for ECN marking
+  bool m_enableRED;
+  QueueSize m_minTh;
+  QueueSize m_maxTh;
+  Ptr<UniformRandomVariable> m_uv;
 
   // History of top flows
 

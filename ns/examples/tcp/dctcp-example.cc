@@ -91,6 +91,8 @@
 // utilization and low queueing delay and fairness across competing flows
 // sharing the same path.
 
+// modified by jiazhou lu <ljzalc1022@stu.pku.edu.cn>
+
 #include <iostream>
 #include <iomanip>
 
@@ -265,23 +267,83 @@ CheckT2QueueSize (Ptr<QueueDisc> queue)
   Simulator::Schedule (MilliSeconds (10), &CheckT2QueueSize, queue);
 }
 
+bool 
+PrepareOutputFilePath(const std::string &outputFilePath, const std::string &config_path) {
+  std::string rm_dir_cmd = "rm -rf " + outputFilePath;
+  if (system (rm_dir_cmd.c_str ()) == -1) {
+    std::cout << "ERR: " << rm_dir_cmd << " failed, proceed anyway." << std::endl;
+  };
+  std::string create_dir_cmd = "mkdir -p " + outputFilePath;
+  if (system (create_dir_cmd.c_str ()) == -1) {
+    std::cout << "ERR: " << create_dir_cmd << " failed, proceed anyway." << std::endl;
+  }
+
+  std::ifstream in_file{config_path};
+  std::ofstream out_file{outputFilePath + "/config.json"};
+  std::string line;
+  if (in_file && out_file) {
+    while (getline(in_file, line)) {
+      out_file << line << "\n";
+    }
+  }
+  else {
+    std::cerr << "ERROR mirroring config file" << std::endl;
+    return false;
+  }
+
+  return true;
+}
+
 int main (int argc, char *argv[])
 {
+  std::string config_path = "";  
   std::string outputFilePath = ".";
   std::string tcpTypeId = "TcpDctcp";
+  std::string queueDiscTypeId = "RedQueueDisc";
   Time flowStartupWindow = Seconds (1);
   Time convergenceTime = Seconds (3);
   Time measurementWindow = Seconds (1);
   bool enableSwitchEcn = true;
   Time progressInterval = MilliSeconds (100);
 
+  // Cebinae configurance
+  bool enable_debug = 0;  
+  Time dt {NanoSeconds (1048576)};
+  Time vdt {NanoSeconds (1024)};
+  Time l {NanoSeconds (65536)};
+  uint32_t p {1};
+  double tau {0.05};
+  double delta_port {0.05};
+  double delta_flow {0.05};
+
   CommandLine cmd (__FILE__);
+  cmd.AddValue("config_path", "Path to the json configuration file", config_path);
+  cmd.AddValue ("outputFilePath", "output file path", outputFilePath);
   cmd.AddValue ("tcpTypeId", "ns-3 TCP TypeId", tcpTypeId);
   cmd.AddValue ("flowStartupWindow", "startup time window (TCP staggered starts)", flowStartupWindow);
   cmd.AddValue ("convergenceTime", "convergence time", convergenceTime);
   cmd.AddValue ("measurementWindow", "measurement window", measurementWindow);
   cmd.AddValue ("enableSwitchEcn", "enable ECN at switches", enableSwitchEcn);
+  cmd.AddValue ("queueDiscTypeId", "ns-3 QueueDisc TypeId", queueDiscTypeId);
+  cmd.AddValue ("enable_debug", "Enable logging", enable_debug);
+  cmd.AddValue ("dt", "CebinaeQueueDisc", dt);
+  cmd.AddValue ("vdt", "CebinaeQueueDisc", vdt);
+  cmd.AddValue ("l", "CebinaeQueueDisc", l);
+  cmd.AddValue ("p", "CebinaeQueueDisc", p);
+  cmd.AddValue ("tau", "CebinaeQueueDisc", tau);
+  cmd.AddValue ("delta_port", "CebinaeQueueDisc", delta_port);
+  cmd.AddValue ("delta_flow", "CebinaeQueueDisc", delta_flow);
   cmd.Parse (argc, argv);
+
+  std::cout << "config_path: " << config_path << std::endl;
+  std::cout << "outputFilePath: " << outputFilePath << std::endl;
+  std::cout << "queueDiscTypeId: " << queueDiscTypeId << std::endl;
+
+  // valid queueDisc config
+  if (queueDiscTypeId != "RedQueueDisc" && queueDiscTypeId != "CebinaeQueueDisc") {
+    std::cerr << "unsupported queueDisc: " << queueDiscTypeId << std::endl;
+    return EXIT_FAILURE;
+  }
 
   Config::SetDefault ("ns3::TcpL4Protocol::SocketType", StringValue ("ns3::" + tcpTypeId));
 
@@ -307,21 +369,37 @@ int main (int argc, char *argv[])
   Config::SetDefault ("ns3::TcpSocket::DelAckCount", UintegerValue (2));
   GlobalValue::Bind ("ChecksumEnabled", BooleanValue (false));
 
-  // Set default parameters for RED queue disc
-  Config::SetDefault ("ns3::RedQueueDisc::UseEcn", BooleanValue (enableSwitchEcn));
-  // ARED may be used but the queueing delays will increase; it is disabled
-  // here because the SIGCOMM paper did not mention it
-  // Config::SetDefault ("ns3::RedQueueDisc::ARED", BooleanValue (true));
-  // Config::SetDefault ("ns3::RedQueueDisc::Gentle", BooleanValue (true));
-  Config::SetDefault ("ns3::RedQueueDisc::UseHardDrop", BooleanValue (false));
-  Config::SetDefault ("ns3::RedQueueDisc::MeanPktSize", UintegerValue (1500));
-  // Triumph and Scorpion switches used in DCTCP Paper have 4 MB of buffer
-  // If every packet is 1500 bytes, 2666 packets can be stored in 4 MB
-  Config::SetDefault ("ns3::RedQueueDisc::MaxSize", QueueSizeValue (QueueSize ("2666p")));
-  // DCTCP tracks instantaneous queue length only; so set QW = 1
-  Config::SetDefault ("ns3::RedQueueDisc::QW", DoubleValue (1));
-  Config::SetDefault ("ns3::RedQueueDisc::MinTh", DoubleValue (20));
-  Config::SetDefault ("ns3::RedQueueDisc::MaxTh", DoubleValue (60));
+  if (queueDiscTypeId == "RedQueueDisc") {
+    // Set default parameters for RED queue disc
+    Config::SetDefault ("ns3::RedQueueDisc::UseEcn", BooleanValue (enableSwitchEcn));
+    // ARED may be used but the queueing delays will increase; it is disabled
+    // here because the SIGCOMM paper did not mention it
+    // Config::SetDefault ("ns3::RedQueueDisc::ARED", BooleanValue (true));
+    // Config::SetDefault ("ns3::RedQueueDisc::Gentle", BooleanValue (true));
+    Config::SetDefault ("ns3::RedQueueDisc::UseHardDrop", BooleanValue (false));
+    Config::SetDefault ("ns3::RedQueueDisc::MeanPktSize", UintegerValue (1500));
+    // Triumph and Scorpion switches used in DCTCP Paper have 4 MB of buffer
+    // If every packet is 1500 bytes, 2666 packets can be stored in 4 MB
+    Config::SetDefault ("ns3::RedQueueDisc::MaxSize", QueueSizeValue (QueueSize ("2666p")));
+    // DCTCP tracks instantaneous queue length only; so set QW = 1
+    Config::SetDefault ("ns3::RedQueueDisc::QW", DoubleValue (1));
+    Config::SetDefault ("ns3::RedQueueDisc::MinTh", DoubleValue (20));
+    Config::SetDefault ("ns3::RedQueueDisc::MaxTh", DoubleValue (60));
+  }
+  else {
+    Config::SetDefault ("ns3::CebinaeQueueDisc::debug", BooleanValue (enable_debug));
+    Config::SetDefault ("ns3::CebinaeQueueDisc::dT", TimeValue (dt));
+    Config::SetDefault ("ns3::CebinaeQueueDisc::vdT", TimeValue (vdt));
+    Config::SetDefault ("ns3::CebinaeQueueDisc::L", TimeValue (l));
+    Config::SetDefault ("ns3::CebinaeQueueDisc::P", UintegerValue (p));
+    Config::SetDefault ("ns3::CebinaeQueueDisc::tau", DoubleValue (tau));
+    Config::SetDefault ("ns3::CebinaeQueueDisc::delta_port", DoubleValue (delta_port));
+    Config::SetDefault ("ns3::CebinaeQueueDisc::delta_flow", DoubleValue (delta_flow));
+    Config::SetDefault ("ns3::CebinaeQueueDisc::pool", BooleanValue (true));
+    Config::SetDefault ("ns3::CebinaeQueueDisc::MaxSize", QueueSizeValue (QueueSize ("2666p")));
+
+    Config::SetDefault ("ns3::CebinaeQueueDisc::enableECN", BooleanValue (true));
+  }
 
   PointToPointHelper pointToPointSR;
   pointToPointSR.SetDeviceAttribute ("DataRate", StringValue ("1Gbps"));
@@ -368,40 +446,56 @@ int main (int argc, char *argv[])
   InternetStackHelper stack;
   stack.InstallAll ();
 
-  TrafficControlHelper tchRed10;
+  TrafficControlHelper tch10;
   // MinTh = 50, MaxTh = 150 recommended in ACM SIGCOMM 2010 DCTCP Paper
   // This yields a target (MinTh) queue depth of 60us at 10 Gb/s
-  tchRed10.SetRootQueueDisc ("ns3::RedQueueDisc",
-                             "LinkBandwidth", StringValue ("10Gbps"),
-                             "LinkDelay", StringValue ("10us"),
-                             "MinTh", DoubleValue (50),
-                             "MaxTh", DoubleValue (150));
-  QueueDiscContainer queueDiscs1 = tchRed10.Install (T1T2);
+  if (queueDiscTypeId == "RedQueueDisc") {
+    tch10.SetRootQueueDisc ("ns3::RedQueueDisc",
+                            "LinkBandwidth", StringValue ("10Gbps"),
+                            "LinkDelay", StringValue ("10us"),
+                            "MinTh", DoubleValue (50),
+                            "MaxTh", DoubleValue (150));
+  }
+  else if (queueDiscTypeId == "CebinaeQueueDisc") {
+    tch10.SetRootQueueDisc ("ns3::CebinaeQueueDisc",
+                            "DataRate", StringValue ("10Gbps"),
+                            "MinTh", QueueSizeValue (QueueSize ("50p")),
+                            "MaxTh", QueueSizeValue( QueueSize("150p")));
+  }
+  QueueDiscContainer queueDiscs1 = tch10.Install (T1T2);
 
-  TrafficControlHelper tchRed1;
+  TrafficControlHelper tch1;
   // MinTh = 20, MaxTh = 60 recommended in ACM SIGCOMM 2010 DCTCP Paper
   // This yields a target queue depth of 250us at 1 Gb/s
-  tchRed1.SetRootQueueDisc ("ns3::RedQueueDisc",
-                            "LinkBandwidth", StringValue ("1Gbps"),
-                            "LinkDelay", StringValue ("10us"),
-                            "MinTh", DoubleValue (20),
-                            "MaxTh", DoubleValue (60));
-  QueueDiscContainer queueDiscs2 = tchRed1.Install (R1T2.Get (1));
+  if (queueDiscTypeId == "RedQueueDisc") {
+    tch1.SetRootQueueDisc ("ns3::RedQueueDisc",
+                           "LinkBandwidth", StringValue ("1Gbps"),
+                           "LinkDelay", StringValue ("10us"),
+                           "MinTh", DoubleValue (20),
+                           "MaxTh", DoubleValue (60));
+  }
+  else if (queueDiscTypeId == "CebinaeQueueDisc") {
+    tch1.SetRootQueueDisc ("ns3::CebinaeQueueDisc",
+                           "DataRate", StringValue ("1Gbps"),
+                           "MinTh", QueueSizeValue (QueueSize ("20p")),
+                           "MaxTh", QueueSizeValue( QueueSize("60p")));
+  }
+  QueueDiscContainer queueDiscs2 = tch1.Install (R1T2.Get (1));
   for (std::size_t i = 0; i < 10; i++)
     {
-      tchRed1.Install (S1T1[i].Get (1));
+      tch1.Install (S1T1[i].Get (1));
     }
   for (std::size_t i = 0; i < 20; i++)
     {
-      tchRed1.Install (S2T1[i].Get (1));
+      tch1.Install (S2T1[i].Get (1));
     }
   for (std::size_t i = 0; i < 10; i++)
     {
-      tchRed1.Install (S3T2[i].Get (1));
+      tch1.Install (S3T2[i].Get (1));
     }
   for (std::size_t i = 0; i < 20; i++)
     {
-      tchRed1.Install (R2T2[i].Get (1));
+      tch1.Install (R2T2[i].Get (1));
     }
 
   Ipv4AddressHelper address;
@@ -518,16 +612,19 @@ int main (int argc, char *argv[])
       clientApps1.Stop (stopTime);
     }
 
-  rxS1R1Throughput.open ("dctcp-example-s1-r1-throughput.dat", std::ios::out);
+  if (!PrepareOutputFilePath(outputFilePath, config_path)) {
+    return EXIT_FAILURE;
+  }
+  rxS1R1Throughput.open (outputFilePath + "dctcp-example-s1-r1-throughput.dat", std::ios::out);
   rxS1R1Throughput << "#Time(s) flow thruput(Mb/s)" << std::endl;
-  rxS2R2Throughput.open ("dctcp-example-s2-r2-throughput.dat", std::ios::out);
+  rxS2R2Throughput.open (outputFilePath + "dctcp-example-s2-r2-throughput.dat", std::ios::out);
   rxS2R2Throughput << "#Time(s) flow thruput(Mb/s)" << std::endl;
-  rxS3R1Throughput.open ("dctcp-example-s3-r1-throughput.dat", std::ios::out);
+  rxS3R1Throughput.open (outputFilePath + "dctcp-example-s3-r1-throughput.dat", std::ios::out);
   rxS3R1Throughput << "#Time(s) flow thruput(Mb/s)" << std::endl;
-  fairnessIndex.open ("dctcp-example-fairness.dat", std::ios::out);
-  t1QueueLength.open ("dctcp-example-t1-length.dat", std::ios::out);
+  fairnessIndex.open (outputFilePath + "dctcp-example-fairness.dat", std::ios::out);
+  t1QueueLength.open (outputFilePath + "dctcp-example-t1-length.dat", std::ios::out);
   t1QueueLength << "#Time(s) qlen(pkts) qlen(us)" << std::endl;
-  t2QueueLength.open ("dctcp-example-t2-length.dat", std::ios::out);
+  t2QueueLength.open (outputFilePath + "dctcp-example-t2-length.dat", std::ios::out);
   t2QueueLength << "#Time(s) qlen(pkts) qlen(us)" << std::endl;
   for (std::size_t i = 0; i < 10; i++)
     {

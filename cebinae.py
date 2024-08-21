@@ -114,6 +114,7 @@ def ns_run_instance(config_path, enb_gdb):
   os.chdir(cwd)
 
 def waf_cmd_wrapper(cmd):
+  # print pid and run cmd
   print("PID {0}: {1}".format(os.getppid(), cmd))
   os.system(cmd)
 

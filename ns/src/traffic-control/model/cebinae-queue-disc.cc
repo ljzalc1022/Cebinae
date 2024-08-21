@@ -74,6 +74,21 @@ TypeId CebinaeQueueDisc::GetTypeId (void)
                    BooleanValue (false),
                    MakeBooleanAccessor (&CebinaeQueueDisc::m_debug),
                    MakeBooleanChecker ()) 
+    .AddAttribute ("enableECN",
+                   "enable ECN marking",
+                   BooleanValue (false),
+                   MakeBooleanAccessor (&CebinaeQueueDisc::m_enableRED),
+                   MakeBooleanChecker ())
+    .AddAttribute ("MinTh",
+                   "minTh for RED",
+                   QueueSizeValue(QueueSize("20p")),
+                   MakeQueueSizeAccessor(&CebinaeQueueDisc::m_minTh),
+                   MakeQueueSizeChecker())
+    .AddAttribute ("MaxTh",
+                   "maxTh for RED",
+                   QueueSizeValue(QueueSize("60p")),
+                   MakeQueueSizeAccessor(&CebinaeQueueDisc::m_maxTh),
+                   MakeQueueSizeChecker())
   ;
   return tid;
 }
@@ -85,6 +100,11 @@ CebinaeQueueDisc::CebinaeQueueDisc ()
 {
   NS_LOG_DEBUG ("Trigger reaction event chain");
   Simulator::Schedule(Seconds(0), &CebinaeQueueDisc::ReactionFSM, this);
+
+  // create a random variable for RED
+  m_uv = CreateObject<UniformRandomVariable> ();
+  NS_ASSERT(GetMaxSize().GetUnit() == m_minTh.GetUnit());
+  NS_ASSERT(GetMaxSize().GetUnit() == m_maxTh.GetUnit());
 }
 
 CebinaeQueueDisc::~CebinaeQueueDisc ()
@@ -446,7 +466,31 @@ CebinaeQueueDisc::DoEnqueue (Ptr<QueueDiscItem> item)
 
   uint32_t total_qlen = GetInternalQueue (m_headq)->GetCurrentSize().GetValue() + GetInternalQueue (m_neg_headq)->GetCurrentSize().GetValue();
 
-  // TODO Optional ECN bits marking
+  // Optional ECN bits marking
+  if (m_enableRED) {
+    QueueSize cur_qlen = QueueSize(
+      GetMaxSize().GetUnit(), 
+      GetInternalQueue (m_headq)->GetCurrentSize().GetValue() + 
+        GetInternalQueue (m_neg_headq)->GetCurrentSize().GetValue()
+    );
+    bool marking = false;
+    if (cur_qlen >= m_maxTh) {
+      marking = true;
+    }
+    else if (cur_qlen > m_minTh) {      
+      double p = double(cur_qlen.GetValue() - m_minTh.GetValue()) / (m_maxTh.GetValue() - m_minTh.GetValue());
+      if (m_uv->GetValue() < p) {
+        marking = true;
+      }
+    }
+    if (marking) {
+      if (!Mark(item, "RED")) {
+        DropBeforeEnqueue(item, "FailedMark");
+        return false;
+      }
+    }
+  }
+
   // Now execute the queueing decision
   bool retval = false;  // whether the packet succeeds enqueue
 
