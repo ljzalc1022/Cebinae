@@ -1,0 +1,26 @@
+{
+    "instance_type": "fat-tree-cebinae",
+    "batch_params": [
+        "queueDiscTypeId",
+        "outputFilePath"
+    ],
+    "batch_size": 2,
+    "queueDiscTypeId": [
+        "CebinaeQueueDisc",
+        "RedQueueDisc"
+    ],
+    "outputFilePath": [
+        "tmp_index/fat-tree-cebinae/cebinae/",
+        "tmp_index/fat-tree-cebinae/red/"
+    ],
+    "topology_file": "traces/fat-tree.txt",
+    "flow_file": "traces/websearch-30-25G.txt",
+
+    "vdt": "1ns",
+    "delta_port": 0.01,
+    "delta_flow": 0.01,
+    "tau": 0.01,
+    "p": 4,
+    "l": "10000ns",
+    "dt": "1.2ms"
+}

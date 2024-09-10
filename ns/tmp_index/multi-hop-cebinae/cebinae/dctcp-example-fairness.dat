@@ -1,0 +1,3000 @@
+Average throughput for S1-R1 flows: 178.75 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 89.37 Mbps; fairness: 0.050
+Average throughput for S3-R1 flows: 0.00 Mbps; fairness: -nan
+Global Fairness Index 0.030
+Aggregate user-level throughput for flows through T1: 0.036 Gbps
+Aggregate user-level throughput for flows to R1: 0.018 Gbps
+Average throughput for S1-R1 flows: 96.17 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 48.09 Mbps; fairness: 0.050
+Average throughput for S3-R1 flows: 0.00 Mbps; fairness: -nan
+Global Fairness Index 0.030
+Aggregate user-level throughput for flows through T1: 0.019 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 95.44 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 47.62 Mbps; fairness: 0.050
+Average throughput for S3-R1 flows: 0.00 Mbps; fairness: -nan
+Global Fairness Index 0.030
+Aggregate user-level throughput for flows through T1: 0.019 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 95.23 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 47.72 Mbps; fairness: 0.050
+Average throughput for S3-R1 flows: 0.00 Mbps; fairness: -nan
+Global Fairness Index 0.030
+Aggregate user-level throughput for flows through T1: 0.019 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 95.23 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 47.62 Mbps; fairness: 0.050
+Average throughput for S3-R1 flows: 0.00 Mbps; fairness: -nan
+Global Fairness Index 0.030
+Aggregate user-level throughput for flows through T1: 0.019 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 14.25 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 112.95 Mbps; fairness: 0.098
+Average throughput for S3-R1 flows: 97.08 Mbps; fairness: 0.100
+Global Fairness Index 0.046
+Aggregate user-level throughput for flows through T1: 0.024 Gbps
+Aggregate user-level throughput for flows to R1: 0.011 Gbps
+Average throughput for S1-R1 flows: 9.34 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 95.80 Mbps; fairness: 0.100
+Average throughput for S3-R1 flows: 20.60 Mbps; fairness: 0.100
+Global Fairness Index 0.088
+Aggregate user-level throughput for flows through T1: 0.020 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 24.41 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 95.44 Mbps; fairness: 0.100
+Average throughput for S3-R1 flows: 33.50 Mbps; fairness: 0.100
+Global Fairness Index 0.079
+Aggregate user-level throughput for flows through T1: 0.022 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 62.05 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 95.29 Mbps; fairness: 0.100
+Average throughput for S3-R1 flows: 34.04 Mbps; fairness: 0.100
+Global Fairness Index 0.065
+Aggregate user-level throughput for flows through T1: 0.025 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 59.43 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 95.33 Mbps; fairness: 0.100
+Average throughput for S3-R1 flows: 37.07 Mbps; fairness: 0.100
+Global Fairness Index 0.067
+Aggregate user-level throughput for flows through T1: 0.025 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 133.20 Mbps; fairness: 0.177
+Average throughput for S2-R2 flows: 95.21 Mbps; fairness: 0.100
+Average throughput for S3-R1 flows: 31.87 Mbps; fairness: 0.100
+Global Fairness Index 0.076
+Aggregate user-level throughput for flows through T1: 0.032 Gbps
+Aggregate user-level throughput for flows to R1: 0.017 Gbps
+Average throughput for S1-R1 flows: 18.31 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 184.77 Mbps; fairness: 0.136
+Average throughput for S3-R1 flows: 19.00 Mbps; fairness: 0.100
+Global Fairness Index 0.116
+Aggregate user-level throughput for flows through T1: 0.039 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 69.75 Mbps; fairness: 0.175
+Average throughput for S2-R2 flows: 143.75 Mbps; fairness: 0.150
+Average throughput for S3-R1 flows: 33.59 Mbps; fairness: 0.100
+Global Fairness Index 0.106
+Aggregate user-level throughput for flows through T1: 0.036 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 61.03 Mbps; fairness: 0.184
+Average throughput for S2-R2 flows: 142.95 Mbps; fairness: 0.150
+Average throughput for S3-R1 flows: 29.98 Mbps; fairness: 0.100
+Global Fairness Index 0.114
+Aggregate user-level throughput for flows through T1: 0.035 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 11.92 Mbps; fairness: 0.175
+Average throughput for S2-R2 flows: 142.97 Mbps; fairness: 0.150
+Average throughput for S3-R1 flows: 6.39 Mbps; fairness: 0.100
+Global Fairness Index 0.138
+Aggregate user-level throughput for flows through T1: 0.030 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 63.04 Mbps; fairness: 0.196
+Average throughput for S2-R2 flows: 142.85 Mbps; fairness: 0.150
+Average throughput for S3-R1 flows: 115.79 Mbps; fairness: 0.155
+Global Fairness Index 0.099
+Aggregate user-level throughput for flows through T1: 0.035 Gbps
+Aggregate user-level throughput for flows to R1: 0.018 Gbps
+Average throughput for S1-R1 flows: 9.01 Mbps; fairness: 0.177
+Average throughput for S2-R2 flows: 208.18 Mbps; fairness: 0.196
+Average throughput for S3-R1 flows: 7.70 Mbps; fairness: 0.110
+Global Fairness Index 0.155
+Aggregate user-level throughput for flows through T1: 0.043 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 44.36 Mbps; fairness: 0.187
+Average throughput for S2-R2 flows: 191.32 Mbps; fairness: 0.200
+Average throughput for S3-R1 flows: 55.09 Mbps; fairness: 0.163
+Global Fairness Index 0.147
+Aggregate user-level throughput for flows through T1: 0.043 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 38.50 Mbps; fairness: 0.198
+Average throughput for S2-R2 flows: 190.96 Mbps; fairness: 0.200
+Average throughput for S3-R1 flows: 48.25 Mbps; fairness: 0.199
+Global Fairness Index 0.173
+Aggregate user-level throughput for flows through T1: 0.042 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 25.31 Mbps; fairness: 0.119
+Average throughput for S2-R2 flows: 190.71 Mbps; fairness: 0.200
+Average throughput for S3-R1 flows: 7.74 Mbps; fairness: 0.142
+Global Fairness Index 0.136
+Aggregate user-level throughput for flows through T1: 0.041 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 58.53 Mbps; fairness: 0.154
+Average throughput for S2-R2 flows: 190.52 Mbps; fairness: 0.200
+Average throughput for S3-R1 flows: 45.63 Mbps; fairness: 0.146
+Global Fairness Index 0.129
+Aggregate user-level throughput for flows through T1: 0.044 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 123.49 Mbps; fairness: 0.159
+Average throughput for S2-R2 flows: 190.44 Mbps; fairness: 0.200
+Average throughput for S3-R1 flows: 21.79 Mbps; fairness: 0.169
+Global Fairness Index 0.083
+Aggregate user-level throughput for flows through T1: 0.050 Gbps
+Aggregate user-level throughput for flows to R1: 0.015 Gbps
+Average throughput for S1-R1 flows: 26.17 Mbps; fairness: 0.170
+Average throughput for S2-R2 flows: 279.94 Mbps; fairness: 0.230
+Average throughput for S3-R1 flows: 24.78 Mbps; fairness: 0.159
+Global Fairness Index 0.196
+Aggregate user-level throughput for flows through T1: 0.059 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 26.13 Mbps; fairness: 0.288
+Average throughput for S2-R2 flows: 239.19 Mbps; fairness: 0.250
+Average throughput for S3-R1 flows: 10.08 Mbps; fairness: 0.183
+Global Fairness Index 0.234
+Aggregate user-level throughput for flows through T1: 0.050 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 62.96 Mbps; fairness: 0.282
+Average throughput for S2-R2 flows: 238.12 Mbps; fairness: 0.250
+Average throughput for S3-R1 flows: 14.01 Mbps; fairness: 0.100
+Global Fairness Index 0.192
+Aggregate user-level throughput for flows through T1: 0.054 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 74.14 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 238.43 Mbps; fairness: 0.250
+Average throughput for S3-R1 flows: 16.83 Mbps; fairness: 0.100
+Global Fairness Index 0.190
+Aggregate user-level throughput for flows through T1: 0.055 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 72.62 Mbps; fairness: 0.130
+Average throughput for S2-R2 flows: 238.10 Mbps; fairness: 0.250
+Average throughput for S3-R1 flows: 84.46 Mbps; fairness: 0.100
+Global Fairness Index 0.092
+Aggregate user-level throughput for flows through T1: 0.055 Gbps
+Aggregate user-level throughput for flows to R1: 0.016 Gbps
+Average throughput for S1-R1 flows: 6.96 Mbps; fairness: 0.198
+Average throughput for S2-R2 flows: 303.45 Mbps; fairness: 0.295
+Average throughput for S3-R1 flows: 76.31 Mbps; fairness: 0.100
+Global Fairness Index 0.083
+Aggregate user-level throughput for flows through T1: 0.061 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 13.93 Mbps; fairness: 0.197
+Average throughput for S2-R2 flows: 286.58 Mbps; fairness: 0.300
+Average throughput for S3-R1 flows: 35.43 Mbps; fairness: 0.117
+Global Fairness Index 0.169
+Aggregate user-level throughput for flows through T1: 0.059 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 37.36 Mbps; fairness: 0.197
+Average throughput for S2-R2 flows: 286.21 Mbps; fairness: 0.300
+Average throughput for S3-R1 flows: 68.61 Mbps; fairness: 0.111
+Global Fairness Index 0.124
+Aggregate user-level throughput for flows through T1: 0.061 Gbps
+Aggregate user-level throughput for flows to R1: 0.011 Gbps
+Average throughput for S1-R1 flows: 20.15 Mbps; fairness: 0.200
+Average throughput for S2-R2 flows: 285.92 Mbps; fairness: 0.300
+Average throughput for S3-R1 flows: 37.64 Mbps; fairness: 0.195
+Global Fairness Index 0.227
+Aggregate user-level throughput for flows through T1: 0.059 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 125.46 Mbps; fairness: 0.131
+Average throughput for S2-R2 flows: 285.86 Mbps; fairness: 0.300
+Average throughput for S3-R1 flows: 7.04 Mbps; fairness: 0.121
+Global Fairness Index 0.074
+Aggregate user-level throughput for flows through T1: 0.070 Gbps
+Aggregate user-level throughput for flows to R1: 0.013 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.225
+Average throughput for S2-R2 flows: 285.80 Mbps; fairness: 0.300
+Average throughput for S3-R1 flows: 21.42 Mbps; fairness: 0.203
+Global Fairness Index 0.205
+Aggregate user-level throughput for flows through T1: 0.057 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 34.36 Mbps; fairness: 0.271
+Average throughput for S2-R2 flows: 375.25 Mbps; fairness: 0.326
+Average throughput for S3-R1 flows: 31.17 Mbps; fairness: 0.241
+Global Fairness Index 0.291
+Aggregate user-level throughput for flows through T1: 0.078 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 51.32 Mbps; fairness: 0.205
+Average throughput for S2-R2 flows: 334.40 Mbps; fairness: 0.350
+Average throughput for S3-R1 flows: 7.62 Mbps; fairness: 0.188
+Global Fairness Index 0.206
+Aggregate user-level throughput for flows through T1: 0.072 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 57.47 Mbps; fairness: 0.257
+Average throughput for S2-R2 flows: 333.48 Mbps; fairness: 0.350
+Average throughput for S3-R1 flows: 28.51 Mbps; fairness: 0.187
+Global Fairness Index 0.252
+Aggregate user-level throughput for flows through T1: 0.072 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 10.20 Mbps; fairness: 0.117
+Average throughput for S2-R2 flows: 333.50 Mbps; fairness: 0.350
+Average throughput for S3-R1 flows: 123.04 Mbps; fairness: 0.102
+Global Fairness Index 0.066
+Aggregate user-level throughput for flows through T1: 0.068 Gbps
+Aggregate user-level throughput for flows to R1: 0.013 Gbps
+Average throughput for S1-R1 flows: 7.17 Mbps; fairness: 0.244
+Average throughput for S2-R2 flows: 333.60 Mbps; fairness: 0.350
+Average throughput for S3-R1 flows: 17.74 Mbps; fairness: 0.136
+Global Fairness Index 0.237
+Aggregate user-level throughput for flows through T1: 0.067 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 14.05 Mbps; fairness: 0.209
+Average throughput for S2-R2 flows: 398.66 Mbps; fairness: 0.395
+Average throughput for S3-R1 flows: 47.68 Mbps; fairness: 0.216
+Global Fairness Index 0.260
+Aggregate user-level throughput for flows through T1: 0.081 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 10.98 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 381.87 Mbps; fairness: 0.400
+Average throughput for S3-R1 flows: 33.75 Mbps; fairness: 0.112
+Global Fairness Index 0.201
+Aggregate user-level throughput for flows through T1: 0.077 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 2.58 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 381.48 Mbps; fairness: 0.400
+Average throughput for S3-R1 flows: 21.30 Mbps; fairness: 0.150
+Global Fairness Index 0.243
+Aggregate user-level throughput for flows through T1: 0.077 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 32.44 Mbps; fairness: 0.109
+Average throughput for S2-R2 flows: 381.24 Mbps; fairness: 0.400
+Average throughput for S3-R1 flows: 58.82 Mbps; fairness: 0.120
+Global Fairness Index 0.158
+Aggregate user-level throughput for flows through T1: 0.079 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 99.98 Mbps; fairness: 0.130
+Average throughput for S2-R2 flows: 381.01 Mbps; fairness: 0.400
+Average throughput for S3-R1 flows: 28.18 Mbps; fairness: 0.126
+Global Fairness Index 0.119
+Aggregate user-level throughput for flows through T1: 0.086 Gbps
+Aggregate user-level throughput for flows to R1: 0.013 Gbps
+Average throughput for S1-R1 flows: 53.98 Mbps; fairness: 0.175
+Average throughput for S2-R2 flows: 381.26 Mbps; fairness: 0.400
+Average throughput for S3-R1 flows: 38.79 Mbps; fairness: 0.194
+Global Fairness Index 0.231
+Aggregate user-level throughput for flows through T1: 0.082 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 40.80 Mbps; fairness: 0.281
+Average throughput for S2-R2 flows: 470.36 Mbps; fairness: 0.423
+Average throughput for S3-R1 flows: 37.93 Mbps; fairness: 0.192
+Global Fairness Index 0.316
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 34.32 Mbps; fairness: 0.226
+Average throughput for S2-R2 flows: 429.81 Mbps; fairness: 0.450
+Average throughput for S3-R1 flows: 35.06 Mbps; fairness: 0.192
+Global Fairness Index 0.309
+Aggregate user-level throughput for flows through T1: 0.089 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 22.40 Mbps; fairness: 0.450
+Average throughput for S2-R2 flows: 428.28 Mbps; fairness: 0.450
+Average throughput for S3-R1 flows: 30.23 Mbps; fairness: 0.372
+Global Fairness Index 0.404
+Aggregate user-level throughput for flows through T1: 0.088 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 11.88 Mbps; fairness: 0.226
+Average throughput for S2-R2 flows: 428.89 Mbps; fairness: 0.450
+Average throughput for S3-R1 flows: 138.40 Mbps; fairness: 0.110
+Global Fairness Index 0.078
+Aggregate user-level throughput for flows through T1: 0.087 Gbps
+Aggregate user-level throughput for flows to R1: 0.015 Gbps
+Average throughput for S1-R1 flows: 12.21 Mbps; fairness: 0.294
+Average throughput for S2-R2 flows: 428.73 Mbps; fairness: 0.450
+Average throughput for S3-R1 flows: 41.00 Mbps; fairness: 0.315
+Global Fairness Index 0.345
+Aggregate user-level throughput for flows through T1: 0.087 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 3.69 Mbps; fairness: 0.286
+Average throughput for S2-R2 flows: 493.92 Mbps; fairness: 0.494
+Average throughput for S3-R1 flows: 9.67 Mbps; fairness: 0.305
+Global Fairness Index 0.305
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.001 Gbps
+Average throughput for S1-R1 flows: 31.17 Mbps; fairness: 0.205
+Average throughput for S2-R2 flows: 460.98 Mbps; fairness: 0.500
+Average throughput for S3-R1 flows: 61.15 Mbps; fairness: 0.374
+Global Fairness Index 0.371
+Aggregate user-level throughput for flows through T1: 0.095 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 8.36 Mbps; fairness: 0.201
+Average throughput for S2-R2 flows: 475.03 Mbps; fairness: 0.500
+Average throughput for S3-R1 flows: 47.35 Mbps; fairness: 0.360
+Global Fairness Index 0.366
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 105.88 Mbps; fairness: 0.125
+Average throughput for S2-R2 flows: 436.37 Mbps; fairness: 0.456
+Average throughput for S3-R1 flows: 72.21 Mbps; fairness: 0.196
+Global Fairness Index 0.145
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.018 Gbps
+Average throughput for S1-R1 flows: 41.12 Mbps; fairness: 0.120
+Average throughput for S2-R2 flows: 432.54 Mbps; fairness: 0.450
+Average throughput for S3-R1 flows: 7.62 Mbps; fairness: 0.245
+Global Fairness Index 0.208
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 28.02 Mbps; fairness: 0.148
+Average throughput for S2-R2 flows: 428.93 Mbps; fairness: 0.450
+Average throughput for S3-R1 flows: 49.48 Mbps; fairness: 0.481
+Global Fairness Index 0.362
+Aggregate user-level throughput for flows through T1: 0.089 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 31.50 Mbps; fairness: 0.106
+Average throughput for S2-R2 flows: 516.38 Mbps; fairness: 0.474
+Average throughput for S3-R1 flows: 39.16 Mbps; fairness: 0.213
+Global Fairness Index 0.277
+Aggregate user-level throughput for flows through T1: 0.106 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 3.56 Mbps; fairness: 0.282
+Average throughput for S2-R2 flows: 449.02 Mbps; fairness: 0.479
+Average throughput for S3-R1 flows: 93.14 Mbps; fairness: 0.355
+Global Fairness Index 0.271
+Aggregate user-level throughput for flows through T1: 0.090 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 16.14 Mbps; fairness: 0.248
+Average throughput for S2-R2 flows: 432.80 Mbps; fairness: 0.450
+Average throughput for S3-R1 flows: 140.37 Mbps; fairness: 0.168
+Global Fairness Index 0.120
+Aggregate user-level throughput for flows through T1: 0.088 Gbps
+Aggregate user-level throughput for flows to R1: 0.016 Gbps
+Average throughput for S1-R1 flows: 8.44 Mbps; fairness: 0.148
+Average throughput for S2-R2 flows: 451.58 Mbps; fairness: 0.487
+Average throughput for S3-R1 flows: 71.11 Mbps; fairness: 0.264
+Global Fairness Index 0.263
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 14.25 Mbps; fairness: 0.169
+Average throughput for S2-R2 flows: 469.79 Mbps; fairness: 0.499
+Average throughput for S3-R1 flows: 47.55 Mbps; fairness: 0.297
+Global Fairness Index 0.347
+Aggregate user-level throughput for flows through T1: 0.095 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 8.72 Mbps; fairness: 0.133
+Average throughput for S2-R2 flows: 530.96 Mbps; fairness: 0.547
+Average throughput for S3-R1 flows: 82.66 Mbps; fairness: 0.443
+Global Fairness Index 0.376
+Aggregate user-level throughput for flows through T1: 0.107 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 3.52 Mbps; fairness: 0.249
+Average throughput for S2-R2 flows: 438.35 Mbps; fairness: 0.463
+Average throughput for S3-R1 flows: 32.69 Mbps; fairness: 0.245
+Global Fairness Index 0.303
+Aggregate user-level throughput for flows through T1: 0.088 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 25.15 Mbps; fairness: 0.371
+Average throughput for S2-R2 flows: 431.49 Mbps; fairness: 0.450
+Average throughput for S3-R1 flows: 67.54 Mbps; fairness: 0.364
+Global Fairness Index 0.360
+Aggregate user-level throughput for flows through T1: 0.089 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 116.12 Mbps; fairness: 0.169
+Average throughput for S2-R2 flows: 451.60 Mbps; fairness: 0.486
+Average throughput for S3-R1 flows: 19.54 Mbps; fairness: 0.226
+Global Fairness Index 0.146
+Aggregate user-level throughput for flows through T1: 0.102 Gbps
+Aggregate user-level throughput for flows to R1: 0.014 Gbps
+Average throughput for S1-R1 flows: 21.18 Mbps; fairness: 0.204
+Average throughput for S2-R2 flows: 468.42 Mbps; fairness: 0.498
+Average throughput for S3-R1 flows: 75.78 Mbps; fairness: 0.438
+Global Fairness Index 0.381
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 8.97 Mbps; fairness: 0.178
+Average throughput for S2-R2 flows: 473.50 Mbps; fairness: 0.499
+Average throughput for S3-R1 flows: 30.27 Mbps; fairness: 0.423
+Global Fairness Index 0.384
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 19.74 Mbps; fairness: 0.246
+Average throughput for S2-R2 flows: 511.94 Mbps; fairness: 0.546
+Average throughput for S3-R1 flows: 81.67 Mbps; fairness: 0.242
+Global Fairness Index 0.275
+Aggregate user-level throughput for flows through T1: 0.104 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 15.40 Mbps; fairness: 0.308
+Average throughput for S2-R2 flows: 470.94 Mbps; fairness: 0.498
+Average throughput for S3-R1 flows: 54.07 Mbps; fairness: 0.341
+Global Fairness Index 0.370
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 4.87 Mbps; fairness: 0.168
+Average throughput for S2-R2 flows: 480.67 Mbps; fairness: 0.500
+Average throughput for S3-R1 flows: 127.96 Mbps; fairness: 0.111
+Global Fairness Index 0.087
+Aggregate user-level throughput for flows through T1: 0.097 Gbps
+Aggregate user-level throughput for flows to R1: 0.013 Gbps
+Average throughput for S1-R1 flows: 7.95 Mbps; fairness: 0.149
+Average throughput for S2-R2 flows: 474.62 Mbps; fairness: 0.500
+Average throughput for S3-R1 flows: 66.64 Mbps; fairness: 0.204
+Global Fairness Index 0.236
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 16.92 Mbps; fairness: 0.168
+Average throughput for S2-R2 flows: 467.25 Mbps; fairness: 0.497
+Average throughput for S3-R1 flows: 62.34 Mbps; fairness: 0.317
+Global Fairness Index 0.333
+Aggregate user-level throughput for flows through T1: 0.095 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 2.09 Mbps; fairness: 0.271
+Average throughput for S2-R2 flows: 533.85 Mbps; fairness: 0.548
+Average throughput for S3-R1 flows: 75.98 Mbps; fairness: 0.200
+Global Fairness Index 0.224
+Aggregate user-level throughput for flows through T1: 0.107 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 3.97 Mbps; fairness: 0.219
+Average throughput for S2-R2 flows: 465.63 Mbps; fairness: 0.497
+Average throughput for S3-R1 flows: 88.56 Mbps; fairness: 0.442
+Global Fairness Index 0.330
+Aggregate user-level throughput for flows through T1: 0.094 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 108.30 Mbps; fairness: 0.101
+Average throughput for S2-R2 flows: 477.35 Mbps; fairness: 0.500
+Average throughput for S3-R1 flows: 44.36 Mbps; fairness: 0.352
+Global Fairness Index 0.122
+Aggregate user-level throughput for flows through T1: 0.106 Gbps
+Aggregate user-level throughput for flows to R1: 0.015 Gbps
+Average throughput for S1-R1 flows: 7.82 Mbps; fairness: 0.242
+Average throughput for S2-R2 flows: 466.98 Mbps; fairness: 0.499
+Average throughput for S3-R1 flows: 92.61 Mbps; fairness: 0.357
+Global Fairness Index 0.291
+Aggregate user-level throughput for flows through T1: 0.094 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 4.67 Mbps; fairness: 0.345
+Average throughput for S2-R2 flows: 476.45 Mbps; fairness: 0.500
+Average throughput for S3-R1 flows: 19.58 Mbps; fairness: 0.380
+Global Fairness Index 0.349
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 15.56 Mbps; fairness: 0.431
+Average throughput for S2-R2 flows: 474.13 Mbps; fairness: 0.500
+Average throughput for S3-R1 flows: 83.39 Mbps; fairness: 0.424
+Global Fairness Index 0.367
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 2.21 Mbps; fairness: 0.261
+Average throughput for S2-R2 flows: 521.50 Mbps; fairness: 0.541
+Average throughput for S3-R1 flows: 16.14 Mbps; fairness: 0.427
+Global Fairness Index 0.349
+Aggregate user-level throughput for flows through T1: 0.105 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 6.51 Mbps; fairness: 0.112
+Average throughput for S2-R2 flows: 477.41 Mbps; fairness: 0.533
+Average throughput for S3-R1 flows: 174.69 Mbps; fairness: 0.325
+Global Fairness Index 0.191
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.018 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.131
+Average throughput for S2-R2 flows: 480.69 Mbps; fairness: 0.536
+Average throughput for S3-R1 flows: 35.35 Mbps; fairness: 0.308
+Global Fairness Index 0.347
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 10.69 Mbps; fairness: 0.271
+Average throughput for S2-R2 flows: 476.18 Mbps; fairness: 0.532
+Average throughput for S3-R1 flows: 72.05 Mbps; fairness: 0.495
+Global Fairness Index 0.411
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 25.60 Mbps; fairness: 0.110
+Average throughput for S2-R2 flows: 468.17 Mbps; fairness: 0.526
+Average throughput for S3-R1 flows: 28.34 Mbps; fairness: 0.185
+Global Fairness Index 0.297
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 6.31 Mbps; fairness: 0.124
+Average throughput for S2-R2 flows: 519.35 Mbps; fairness: 0.581
+Average throughput for S3-R1 flows: 60.13 Mbps; fairness: 0.583
+Global Fairness Index 0.459
+Aggregate user-level throughput for flows through T1: 0.105 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 2.70 Mbps; fairness: 0.148
+Average throughput for S2-R2 flows: 477.86 Mbps; fairness: 0.535
+Average throughput for S3-R1 flows: 70.57 Mbps; fairness: 0.403
+Global Fairness Index 0.346
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 95.97 Mbps; fairness: 0.126
+Average throughput for S2-R2 flows: 458.30 Mbps; fairness: 0.536
+Average throughput for S3-R1 flows: 43.87 Mbps; fairness: 0.549
+Global Fairness Index 0.164
+Aggregate user-level throughput for flows through T1: 0.101 Gbps
+Aggregate user-level throughput for flows to R1: 0.014 Gbps
+Average throughput for S1-R1 flows: 33.38 Mbps; fairness: 0.252
+Average throughput for S2-R2 flows: 463.32 Mbps; fairness: 0.530
+Average throughput for S3-R1 flows: 52.76 Mbps; fairness: 0.317
+Global Fairness Index 0.380
+Aggregate user-level throughput for flows through T1: 0.096 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 11.88 Mbps; fairness: 0.311
+Average throughput for S2-R2 flows: 460.04 Mbps; fairness: 0.537
+Average throughput for S3-R1 flows: 24.86 Mbps; fairness: 0.473
+Global Fairness Index 0.425
+Aggregate user-level throughput for flows through T1: 0.093 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 12.37 Mbps; fairness: 0.274
+Average throughput for S2-R2 flows: 454.72 Mbps; fairness: 0.538
+Average throughput for S3-R1 flows: 73.93 Mbps; fairness: 0.411
+Global Fairness Index 0.370
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 10.73 Mbps; fairness: 0.246
+Average throughput for S2-R2 flows: 534.63 Mbps; fairness: 0.577
+Average throughput for S3-R1 flows: 25.35 Mbps; fairness: 0.500
+Global Fairness Index 0.434
+Aggregate user-level throughput for flows through T1: 0.108 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 460.31 Mbps; fairness: 0.572
+Average throughput for S3-R1 flows: 148.23 Mbps; fairness: 0.148
+Global Fairness Index 0.096
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.015 Gbps
+Average throughput for S1-R1 flows: 1.39 Mbps; fairness: 0.166
+Average throughput for S2-R2 flows: 456.05 Mbps; fairness: 0.574
+Average throughput for S3-R1 flows: 45.71 Mbps; fairness: 0.290
+Global Fairness Index 0.336
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 7.54 Mbps; fairness: 0.159
+Average throughput for S2-R2 flows: 489.12 Mbps; fairness: 0.566
+Average throughput for S3-R1 flows: 49.15 Mbps; fairness: 0.244
+Global Fairness Index 0.325
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 4.87 Mbps; fairness: 0.135
+Average throughput for S2-R2 flows: 455.13 Mbps; fairness: 0.574
+Average throughput for S3-R1 flows: 55.71 Mbps; fairness: 0.207
+Global Fairness Index 0.264
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 1.64 Mbps; fairness: 0.183
+Average throughput for S2-R2 flows: 494.30 Mbps; fairness: 0.616
+Average throughput for S3-R1 flows: 68.12 Mbps; fairness: 0.261
+Global Fairness Index 0.284
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 89.33 Mbps; fairness: 0.113
+Average throughput for S2-R2 flows: 490.17 Mbps; fairness: 0.586
+Average throughput for S3-R1 flows: 82.21 Mbps; fairness: 0.256
+Global Fairness Index 0.178
+Aggregate user-level throughput for flows through T1: 0.107 Gbps
+Aggregate user-level throughput for flows to R1: 0.017 Gbps
+Average throughput for S1-R1 flows: 13.56 Mbps; fairness: 0.121
+Average throughput for S2-R2 flows: 448.74 Mbps; fairness: 0.603
+Average throughput for S3-R1 flows: 35.72 Mbps; fairness: 0.422
+Global Fairness Index 0.432
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 11.35 Mbps; fairness: 0.273
+Average throughput for S2-R2 flows: 447.45 Mbps; fairness: 0.599
+Average throughput for S3-R1 flows: 74.10 Mbps; fairness: 0.650
+Global Fairness Index 0.494
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 3.03 Mbps; fairness: 0.108
+Average throughput for S2-R2 flows: 492.01 Mbps; fairness: 0.588
+Average throughput for S3-R1 flows: 52.22 Mbps; fairness: 0.385
+Global Fairness Index 0.387
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 4.05 Mbps; fairness: 0.144
+Average throughput for S2-R2 flows: 455.04 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 42.07 Mbps; fairness: 0.677
+Global Fairness Index 0.489
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 1.97 Mbps; fairness: 0.173
+Average throughput for S2-R2 flows: 495.53 Mbps; fairness: 0.649
+Average throughput for S3-R1 flows: 159.54 Mbps; fairness: 0.269
+Global Fairness Index 0.172
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.016 Gbps
+Average throughput for S1-R1 flows: 1.60 Mbps; fairness: 0.214
+Average throughput for S2-R2 flows: 495.16 Mbps; fairness: 0.589
+Average throughput for S3-R1 flows: 15.36 Mbps; fairness: 0.469
+Global Fairness Index 0.377
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 4.63 Mbps; fairness: 0.136
+Average throughput for S2-R2 flows: 455.56 Mbps; fairness: 0.602
+Average throughput for S3-R1 flows: 94.90 Mbps; fairness: 0.522
+Global Fairness Index 0.381
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.53 Mbps; fairness: 0.360
+Average throughput for S2-R2 flows: 454.45 Mbps; fairness: 0.603
+Average throughput for S3-R1 flows: 38.62 Mbps; fairness: 0.552
+Global Fairness Index 0.442
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 2.50 Mbps; fairness: 0.142
+Average throughput for S2-R2 flows: 492.54 Mbps; fairness: 0.588
+Average throughput for S3-R1 flows: 94.33 Mbps; fairness: 0.674
+Global Fairness Index 0.449
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 1.27 Mbps; fairness: 0.223
+Average throughput for S2-R2 flows: 498.16 Mbps; fairness: 0.650
+Average throughput for S3-R1 flows: 28.30 Mbps; fairness: 0.374
+Global Fairness Index 0.426
+Aggregate user-level throughput for flows through T1: 0.100 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 5.94 Mbps; fairness: 0.119
+Average throughput for S2-R2 flows: 449.80 Mbps; fairness: 0.603
+Average throughput for S3-R1 flows: 81.43 Mbps; fairness: 0.604
+Global Fairness Index 0.443
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 15.44 Mbps; fairness: 0.197
+Average throughput for S2-R2 flows: 485.09 Mbps; fairness: 0.598
+Average throughput for S3-R1 flows: 55.79 Mbps; fairness: 0.216
+Global Fairness Index 0.308
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 5.32 Mbps; fairness: 0.257
+Average throughput for S2-R2 flows: 452.55 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 39.81 Mbps; fairness: 0.461
+Global Fairness Index 0.456
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 8.97 Mbps; fairness: 0.222
+Average throughput for S2-R2 flows: 449.84 Mbps; fairness: 0.619
+Average throughput for S3-R1 flows: 71.27 Mbps; fairness: 0.561
+Global Fairness Index 0.460
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 3.81 Mbps; fairness: 0.235
+Average throughput for S2-R2 flows: 486.48 Mbps; fairness: 0.604
+Average throughput for S3-R1 flows: 20.40 Mbps; fairness: 0.378
+Global Fairness Index 0.407
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 5.78 Mbps; fairness: 0.133
+Average throughput for S2-R2 flows: 454.55 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 96.17 Mbps; fairness: 0.666
+Global Fairness Index 0.456
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 452.40 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 30.35 Mbps; fairness: 0.284
+Global Fairness Index 0.381
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 491.91 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 70.82 Mbps; fairness: 0.563
+Global Fairness Index 0.433
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 1.60 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 454.68 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 53.78 Mbps; fairness: 0.228
+Global Fairness Index 0.285
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 2.29 Mbps; fairness: 0.198
+Average throughput for S2-R2 flows: 451.50 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 92.32 Mbps; fairness: 0.542
+Global Fairness Index 0.392
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 1.92 Mbps; fairness: 0.299
+Average throughput for S2-R2 flows: 492.18 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 70.53 Mbps; fairness: 0.608
+Global Fairness Index 0.455
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 456.34 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 78.64 Mbps; fairness: 0.513
+Global Fairness Index 0.397
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.474
+Average throughput for S2-R2 flows: 453.65 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 63.16 Mbps; fairness: 0.415
+Global Fairness Index 0.376
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 491.25 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 45.75 Mbps; fairness: 0.593
+Global Fairness Index 0.455
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 457.26 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 81.51 Mbps; fairness: 0.559
+Global Fairness Index 0.413
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 1.02 Mbps; fairness: 0.880
+Average throughput for S2-R2 flows: 453.28 Mbps; fairness: 0.621
+Average throughput for S3-R1 flows: 24.08 Mbps; fairness: 0.624
+Global Fairness Index 0.440
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.774
+Average throughput for S2-R2 flows: 493.28 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 97.85 Mbps; fairness: 0.334
+Global Fairness Index 0.273
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 463.07 Mbps; fairness: 0.620
+Average throughput for S3-R1 flows: 88.39 Mbps; fairness: 0.441
+Global Fairness Index 0.344
+Aggregate user-level throughput for flows through T1: 0.093 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 446.59 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 75.12 Mbps; fairness: 0.206
+Global Fairness Index 0.210
+Aggregate user-level throughput for flows through T1: 0.089 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.675
+Average throughput for S2-R2 flows: 491.93 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 39.12 Mbps; fairness: 0.483
+Global Fairness Index 0.429
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 456.56 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 88.72 Mbps; fairness: 0.464
+Global Fairness Index 0.353
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 453.39 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 76.19 Mbps; fairness: 0.637
+Global Fairness Index 0.454
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.41 Mbps; fairness: 0.385
+Average throughput for S2-R2 flows: 492.11 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 78.72 Mbps; fairness: 0.513
+Global Fairness Index 0.399
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 456.79 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 56.20 Mbps; fairness: 0.141
+Global Fairness Index 0.196
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 454.29 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 95.03 Mbps; fairness: 0.345
+Global Fairness Index 0.273
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 494.49 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 67.34 Mbps; fairness: 0.563
+Global Fairness Index 0.437
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 457.52 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 76.10 Mbps; fairness: 0.360
+Global Fairness Index 0.319
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 465.35 Mbps; fairness: 0.618
+Average throughput for S3-R1 flows: 59.02 Mbps; fairness: 0.349
+Global Fairness Index 0.351
+Aggregate user-level throughput for flows through T1: 0.093 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.774
+Average throughput for S2-R2 flows: 482.43 Mbps; fairness: 0.612
+Average throughput for S3-R1 flows: 94.86 Mbps; fairness: 0.450
+Global Fairness Index 0.342
+Aggregate user-level throughput for flows through T1: 0.097 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 456.87 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 59.84 Mbps; fairness: 0.267
+Global Fairness Index 0.296
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 454.18 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 64.02 Mbps; fairness: 0.606
+Global Fairness Index 0.457
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 490.88 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 66.23 Mbps; fairness: 0.508
+Global Fairness Index 0.417
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 456.93 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 68.53 Mbps; fairness: 0.642
+Global Fairness Index 0.468
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 454.78 Mbps; fairness: 0.619
+Average throughput for S3-R1 flows: 75.94 Mbps; fairness: 0.367
+Global Fairness Index 0.322
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 1.06 Mbps; fairness: 0.889
+Average throughput for S2-R2 flows: 492.44 Mbps; fairness: 0.604
+Average throughput for S3-R1 flows: 48.62 Mbps; fairness: 0.729
+Global Fairness Index 0.484
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 457.17 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 79.01 Mbps; fairness: 0.462
+Global Fairness Index 0.372
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 455.48 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 34.94 Mbps; fairness: 0.410
+Global Fairness Index 0.420
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 494.78 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 99.25 Mbps; fairness: 0.518
+Global Fairness Index 0.372
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 456.56 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 34.82 Mbps; fairness: 0.406
+Global Fairness Index 0.420
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 1.02 Mbps; fairness: 0.880
+Average throughput for S2-R2 flows: 461.09 Mbps; fairness: 0.622
+Average throughput for S3-R1 flows: 99.41 Mbps; fairness: 0.639
+Global Fairness Index 0.423
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 489.08 Mbps; fairness: 0.612
+Average throughput for S3-R1 flows: 59.15 Mbps; fairness: 0.221
+Global Fairness Index 0.271
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 461.15 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 76.80 Mbps; fairness: 0.691
+Global Fairness Index 0.474
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 450.89 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 49.97 Mbps; fairness: 0.335
+Global Fairness Index 0.362
+Aggregate user-level throughput for flows through T1: 0.090 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 492.40 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 38.34 Mbps; fairness: 0.620
+Global Fairness Index 0.456
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 456.19 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 80.53 Mbps; fairness: 0.481
+Global Fairness Index 0.377
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 1.11 Mbps; fairness: 0.900
+Average throughput for S2-R2 flows: 454.23 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 26.26 Mbps; fairness: 0.499
+Global Fairness Index 0.435
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 491.77 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 97.98 Mbps; fairness: 0.565
+Global Fairness Index 0.396
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 457.07 Mbps; fairness: 0.622
+Average throughput for S3-R1 flows: 30.92 Mbps; fairness: 0.227
+Global Fairness Index 0.350
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 454.10 Mbps; fairness: 0.620
+Average throughput for S3-R1 flows: 123.54 Mbps; fairness: 0.575
+Global Fairness Index 0.357
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.012 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 493.51 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 37.15 Mbps; fairness: 0.548
+Global Fairness Index 0.441
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 456.50 Mbps; fairness: 0.621
+Average throughput for S3-R1 flows: 94.99 Mbps; fairness: 0.624
+Global Fairness Index 0.420
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 455.09 Mbps; fairness: 0.622
+Average throughput for S3-R1 flows: 48.21 Mbps; fairness: 0.205
+Global Fairness Index 0.280
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 492.44 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 63.57 Mbps; fairness: 0.608
+Global Fairness Index 0.455
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 457.60 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 64.43 Mbps; fairness: 0.395
+Global Fairness Index 0.364
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 454.18 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 40.26 Mbps; fairness: 0.435
+Global Fairness Index 0.422
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 1.02 Mbps; fairness: 0.880
+Average throughput for S2-R2 flows: 490.78 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 91.91 Mbps; fairness: 0.424
+Global Fairness Index 0.335
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 456.54 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 41.45 Mbps; fairness: 0.378
+Global Fairness Index 0.400
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 454.51 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 108.18 Mbps; fairness: 0.538
+Global Fairness Index 0.359
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.011 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 492.93 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 30.84 Mbps; fairness: 0.336
+Global Fairness Index 0.391
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 456.76 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 71.35 Mbps; fairness: 0.615
+Global Fairness Index 0.454
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 455.25 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 66.93 Mbps; fairness: 0.369
+Global Fairness Index 0.343
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 492.56 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 57.96 Mbps; fairness: 0.568
+Global Fairness Index 0.445
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 457.50 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 69.43 Mbps; fairness: 0.461
+Global Fairness Index 0.386
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 454.92 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 80.40 Mbps; fairness: 0.445
+Global Fairness Index 0.358
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.800
+Average throughput for S2-R2 flows: 492.87 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 61.56 Mbps; fairness: 0.192
+Global Fairness Index 0.242
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 457.24 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 64.68 Mbps; fairness: 0.640
+Global Fairness Index 0.468
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 453.59 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 68.85 Mbps; fairness: 0.489
+Global Fairness Index 0.400
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 491.99 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 33.96 Mbps; fairness: 0.403
+Global Fairness Index 0.409
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 456.93 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 92.49 Mbps; fairness: 0.500
+Global Fairness Index 0.366
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.774
+Average throughput for S2-R2 flows: 454.31 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 53.62 Mbps; fairness: 0.457
+Global Fairness Index 0.414
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 494.04 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 103.38 Mbps; fairness: 0.435
+Global Fairness Index 0.324
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 456.81 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 25.23 Mbps; fairness: 0.234
+Global Fairness Index 0.369
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 454.31 Mbps; fairness: 0.621
+Average throughput for S3-R1 flows: 93.39 Mbps; fairness: 0.519
+Global Fairness Index 0.372
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 494.37 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 39.48 Mbps; fairness: 0.406
+Global Fairness Index 0.407
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.675
+Average throughput for S2-R2 flows: 458.75 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 71.15 Mbps; fairness: 0.591
+Global Fairness Index 0.443
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 455.39 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 61.56 Mbps; fairness: 0.313
+Global Fairness Index 0.320
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 493.57 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 48.95 Mbps; fairness: 0.665
+Global Fairness Index 0.472
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 457.24 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 72.95 Mbps; fairness: 0.579
+Global Fairness Index 0.436
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 455.33 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 19.74 Mbps; fairness: 0.532
+Global Fairness Index 0.416
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.480
+Average throughput for S2-R2 flows: 493.01 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 104.20 Mbps; fairness: 0.647
+Global Fairness Index 0.424
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 458.06 Mbps; fairness: 0.632
+Average throughput for S3-R1 flows: 30.39 Mbps; fairness: 0.394
+Global Fairness Index 0.419
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 454.64 Mbps; fairness: 0.620
+Average throughput for S3-R1 flows: 95.89 Mbps; fairness: 0.539
+Global Fairness Index 0.379
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 492.01 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 24.41 Mbps; fairness: 0.628
+Global Fairness Index 0.424
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 456.48 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 109.98 Mbps; fairness: 0.563
+Global Fairness Index 0.371
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.011 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 452.28 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 18.23 Mbps; fairness: 0.353
+Global Fairness Index 0.398
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.480
+Average throughput for S2-R2 flows: 493.57 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 98.39 Mbps; fairness: 0.564
+Global Fairness Index 0.395
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 456.60 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 47.60 Mbps; fairness: 0.281
+Global Fairness Index 0.337
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.800
+Average throughput for S2-R2 flows: 453.73 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 61.24 Mbps; fairness: 0.647
+Global Fairness Index 0.476
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 492.09 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 80.49 Mbps; fairness: 0.421
+Global Fairness Index 0.353
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 456.07 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 40.14 Mbps; fairness: 0.640
+Global Fairness Index 0.474
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.33 Mbps; fairness: 0.291
+Average throughput for S2-R2 flows: 454.72 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 95.60 Mbps; fairness: 0.426
+Global Fairness Index 0.319
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 1.06 Mbps; fairness: 0.889
+Average throughput for S2-R2 flows: 491.97 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 38.26 Mbps; fairness: 0.686
+Global Fairness Index 0.465
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 456.74 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 95.35 Mbps; fairness: 0.591
+Global Fairness Index 0.406
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 454.82 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 22.49 Mbps; fairness: 0.506
+Global Fairness Index 0.423
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 491.29 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 100.92 Mbps; fairness: 0.507
+Global Fairness Index 0.365
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 1.02 Mbps; fairness: 0.880
+Average throughput for S2-R2 flows: 455.97 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 33.14 Mbps; fairness: 0.545
+Global Fairness Index 0.453
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.800
+Average throughput for S2-R2 flows: 454.31 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 95.11 Mbps; fairness: 0.551
+Global Fairness Index 0.387
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 492.83 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 27.12 Mbps; fairness: 0.415
+Global Fairness Index 0.409
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.675
+Average throughput for S2-R2 flows: 455.99 Mbps; fairness: 0.631
+Average throughput for S3-R1 flows: 94.74 Mbps; fairness: 0.605
+Global Fairness Index 0.414
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 453.65 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 34.73 Mbps; fairness: 0.396
+Global Fairness Index 0.414
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 490.07 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 71.48 Mbps; fairness: 0.730
+Global Fairness Index 0.489
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 456.52 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 61.89 Mbps; fairness: 0.526
+Global Fairness Index 0.429
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 459.55 Mbps; fairness: 0.622
+Average throughput for S3-R1 flows: 25.64 Mbps; fairness: 0.517
+Global Fairness Index 0.431
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 486.58 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 98.67 Mbps; fairness: 0.527
+Global Fairness Index 0.376
+Aggregate user-level throughput for flows through T1: 0.097 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 456.46 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 35.23 Mbps; fairness: 0.535
+Global Fairness Index 0.451
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.41 Mbps; fairness: 0.385
+Average throughput for S2-R2 flows: 452.79 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 84.66 Mbps; fairness: 0.563
+Global Fairness Index 0.407
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 492.26 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 45.88 Mbps; fairness: 0.395
+Global Fairness Index 0.397
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 455.21 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 85.20 Mbps; fairness: 0.558
+Global Fairness Index 0.407
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 452.65 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 62.50 Mbps; fairness: 0.214
+Global Fairness Index 0.246
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 492.30 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 65.37 Mbps; fairness: 0.563
+Global Fairness Index 0.438
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.53 Mbps; fairness: 0.483
+Average throughput for S2-R2 flows: 455.70 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 67.01 Mbps; fairness: 0.294
+Global Fairness Index 0.295
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.800
+Average throughput for S2-R2 flows: 459.80 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 60.05 Mbps; fairness: 0.375
+Global Fairness Index 0.364
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 488.06 Mbps; fairness: 0.612
+Average throughput for S3-R1 flows: 82.21 Mbps; fairness: 0.444
+Global Fairness Index 0.361
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.774
+Average throughput for S2-R2 flows: 457.15 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 34.45 Mbps; fairness: 0.595
+Global Fairness Index 0.461
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 454.14 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 97.16 Mbps; fairness: 0.520
+Global Fairness Index 0.368
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 491.07 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 33.42 Mbps; fairness: 0.616
+Global Fairness Index 0.447
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 455.88 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 100.23 Mbps; fairness: 0.394
+Global Fairness Index 0.295
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 452.67 Mbps; fairness: 0.620
+Average throughput for S3-R1 flows: 36.09 Mbps; fairness: 0.483
+Global Fairness Index 0.434
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 492.91 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 98.26 Mbps; fairness: 0.491
+Global Fairness Index 0.359
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.675
+Average throughput for S2-R2 flows: 456.29 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 44.52 Mbps; fairness: 0.393
+Global Fairness Index 0.401
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.800
+Average throughput for S2-R2 flows: 453.71 Mbps; fairness: 0.620
+Average throughput for S3-R1 flows: 75.41 Mbps; fairness: 0.726
+Global Fairness Index 0.486
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 492.22 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 54.27 Mbps; fairness: 0.328
+Global Fairness Index 0.352
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 455.74 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 92.20 Mbps; fairness: 0.655
+Global Fairness Index 0.439
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.873
+Average throughput for S2-R2 flows: 451.22 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 37.72 Mbps; fairness: 0.251
+Global Fairness Index 0.346
+Aggregate user-level throughput for flows through T1: 0.090 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 1.11 Mbps; fairness: 0.900
+Average throughput for S2-R2 flows: 494.18 Mbps; fairness: 0.612
+Average throughput for S3-R1 flows: 65.95 Mbps; fairness: 0.760
+Global Fairness Index 0.503
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 455.78 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 61.32 Mbps; fairness: 0.398
+Global Fairness Index 0.372
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 453.37 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 57.18 Mbps; fairness: 0.622
+Global Fairness Index 0.469
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 490.95 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 67.91 Mbps; fairness: 0.326
+Global Fairness Index 0.323
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 457.11 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 53.00 Mbps; fairness: 0.578
+Global Fairness Index 0.460
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 453.24 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 87.53 Mbps; fairness: 0.311
+Global Fairness Index 0.263
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 1.02 Mbps; fairness: 0.880
+Average throughput for S2-R2 flows: 491.91 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 27.65 Mbps; fairness: 0.563
+Global Fairness Index 0.431
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.675
+Average throughput for S2-R2 flows: 455.72 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 88.31 Mbps; fairness: 0.658
+Global Fairness Index 0.446
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 453.98 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 33.42 Mbps; fairness: 0.233
+Global Fairness Index 0.349
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 491.29 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 63.24 Mbps; fairness: 0.563
+Global Fairness Index 0.441
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 457.46 Mbps; fairness: 0.621
+Average throughput for S3-R1 flows: 66.56 Mbps; fairness: 0.235
+Global Fairness Index 0.254
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 453.49 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 94.58 Mbps; fairness: 0.385
+Global Fairness Index 0.297
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 492.79 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 74.38 Mbps; fairness: 0.509
+Global Fairness Index 0.403
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.480
+Average throughput for S2-R2 flows: 456.87 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 89.09 Mbps; fairness: 0.285
+Global Fairness Index 0.245
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 452.98 Mbps; fairness: 0.621
+Average throughput for S3-R1 flows: 43.99 Mbps; fairness: 0.122
+Global Fairness Index 0.211
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 491.19 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 48.21 Mbps; fairness: 0.143
+Global Fairness Index 0.232
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 455.27 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 94.21 Mbps; fairness: 0.215
+Global Fairness Index 0.187
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 1.11 Mbps; fairness: 0.900
+Average throughput for S2-R2 flows: 453.47 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 44.97 Mbps; fairness: 0.507
+Global Fairness Index 0.444
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.53 Mbps; fairness: 0.483
+Average throughput for S2-R2 flows: 493.14 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 101.87 Mbps; fairness: 0.295
+Global Fairness Index 0.242
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 457.30 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 40.43 Mbps; fairness: 0.560
+Global Fairness Index 0.458
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 452.75 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 87.82 Mbps; fairness: 0.461
+Global Fairness Index 0.352
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 492.28 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 72.34 Mbps; fairness: 0.220
+Global Fairness Index 0.240
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 455.88 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 82.41 Mbps; fairness: 0.410
+Global Fairness Index 0.336
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 452.20 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 51.04 Mbps; fairness: 0.361
+Global Fairness Index 0.373
+Aggregate user-level throughput for flows through T1: 0.090 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 492.22 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 60.91 Mbps; fairness: 0.642
+Global Fairness Index 0.468
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.41 Mbps; fairness: 0.385
+Average throughput for S2-R2 flows: 455.72 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 75.86 Mbps; fairness: 0.333
+Global Fairness Index 0.301
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 454.02 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 59.06 Mbps; fairness: 0.559
+Global Fairness Index 0.446
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 492.28 Mbps; fairness: 0.603
+Average throughput for S3-R1 flows: 58.29 Mbps; fairness: 0.328
+Global Fairness Index 0.344
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 455.90 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 57.75 Mbps; fairness: 0.648
+Global Fairness Index 0.478
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 453.88 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 66.89 Mbps; fairness: 0.405
+Global Fairness Index 0.363
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 492.24 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 34.53 Mbps; fairness: 0.673
+Global Fairness Index 0.456
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 455.95 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 101.13 Mbps; fairness: 0.451
+Global Fairness Index 0.326
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 454.00 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 25.97 Mbps; fairness: 0.404
+Global Fairness Index 0.417
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.33 Mbps; fairness: 0.291
+Average throughput for S2-R2 flows: 492.05 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 95.27 Mbps; fairness: 0.521
+Global Fairness Index 0.379
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 457.30 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 43.21 Mbps; fairness: 0.343
+Global Fairness Index 0.384
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 453.10 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 85.85 Mbps; fairness: 0.614
+Global Fairness Index 0.429
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 493.92 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 50.38 Mbps; fairness: 0.344
+Global Fairness Index 0.369
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 455.95 Mbps; fairness: 0.631
+Average throughput for S3-R1 flows: 58.33 Mbps; fairness: 0.627
+Global Fairness Index 0.473
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 454.66 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 77.70 Mbps; fairness: 0.495
+Global Fairness Index 0.388
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 490.62 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 36.95 Mbps; fairness: 0.370
+Global Fairness Index 0.399
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 456.25 Mbps; fairness: 0.631
+Average throughput for S3-R1 flows: 90.68 Mbps; fairness: 0.631
+Global Fairness Index 0.432
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 459.47 Mbps; fairness: 0.615
+Average throughput for S3-R1 flows: 38.42 Mbps; fairness: 0.192
+Global Fairness Index 0.301
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.577
+Average throughput for S2-R2 flows: 488.90 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 98.06 Mbps; fairness: 0.547
+Global Fairness Index 0.386
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 457.05 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 30.80 Mbps; fairness: 0.417
+Global Fairness Index 0.425
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 454.45 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 71.84 Mbps; fairness: 0.680
+Global Fairness Index 0.475
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 494.82 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 50.75 Mbps; fairness: 0.441
+Global Fairness Index 0.409
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 455.48 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 84.50 Mbps; fairness: 0.636
+Global Fairness Index 0.443
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 1.02 Mbps; fairness: 0.880
+Average throughput for S2-R2 flows: 453.41 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 60.70 Mbps; fairness: 0.204
+Global Fairness Index 0.243
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 493.73 Mbps; fairness: 0.611
+Average throughput for S3-R1 flows: 66.31 Mbps; fairness: 0.660
+Global Fairness Index 0.471
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 456.66 Mbps; fairness: 0.631
+Average throughput for S3-R1 flows: 83.72 Mbps; fairness: 0.346
+Global Fairness Index 0.294
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 452.61 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 17.65 Mbps; fairness: 0.418
+Global Fairness Index 0.403
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 491.83 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 104.65 Mbps; fairness: 0.590
+Global Fairness Index 0.399
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.011 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 455.09 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 19.78 Mbps; fairness: 0.452
+Global Fairness Index 0.414
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.53 Mbps; fairness: 0.483
+Average throughput for S2-R2 flows: 453.53 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 96.87 Mbps; fairness: 0.718
+Global Fairness Index 0.457
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 493.92 Mbps; fairness: 0.611
+Average throughput for S3-R1 flows: 29.20 Mbps; fairness: 0.282
+Global Fairness Index 0.377
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.577
+Average throughput for S2-R2 flows: 456.27 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 91.18 Mbps; fairness: 0.483
+Global Fairness Index 0.360
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 453.30 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 51.00 Mbps; fairness: 0.557
+Global Fairness Index 0.454
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 493.08 Mbps; fairness: 0.612
+Average throughput for S3-R1 flows: 90.89 Mbps; fairness: 0.643
+Global Fairness Index 0.440
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 457.07 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 35.55 Mbps; fairness: 0.354
+Global Fairness Index 0.402
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 1.11 Mbps; fairness: 0.900
+Average throughput for S2-R2 flows: 453.57 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 58.24 Mbps; fairness: 0.853
+Global Fairness Index 0.534
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 492.77 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 64.47 Mbps; fairness: 0.341
+Global Fairness Index 0.339
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 457.93 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 61.89 Mbps; fairness: 0.565
+Global Fairness Index 0.445
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.774
+Average throughput for S2-R2 flows: 463.22 Mbps; fairness: 0.615
+Average throughput for S3-R1 flows: 72.95 Mbps; fairness: 0.370
+Global Fairness Index 0.332
+Aggregate user-level throughput for flows through T1: 0.093 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.675
+Average throughput for S2-R2 flows: 482.43 Mbps; fairness: 0.612
+Average throughput for S3-R1 flows: 39.94 Mbps; fairness: 0.670
+Global Fairness Index 0.468
+Aggregate user-level throughput for flows through T1: 0.097 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 457.20 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 101.95 Mbps; fairness: 0.427
+Global Fairness Index 0.311
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 454.14 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 29.45 Mbps; fairness: 0.243
+Global Fairness Index 0.363
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 491.42 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 58.65 Mbps; fairness: 0.587
+Global Fairness Index 0.453
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 457.17 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 84.21 Mbps; fairness: 0.314
+Global Fairness Index 0.273
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 453.92 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 32.40 Mbps; fairness: 0.782
+Global Fairness Index 0.478
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 492.22 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 84.75 Mbps; fairness: 0.489
+Global Fairness Index 0.382
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 455.74 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 26.38 Mbps; fairness: 0.310
+Global Fairness Index 0.395
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 453.82 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 97.57 Mbps; fairness: 0.525
+Global Fairness Index 0.368
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 491.48 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 28.55 Mbps; fairness: 0.185
+Global Fairness Index 0.334
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 456.95 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 88.43 Mbps; fairness: 0.640
+Global Fairness Index 0.440
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 453.00 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 40.59 Mbps; fairness: 0.321
+Global Fairness Index 0.375
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 492.52 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 71.39 Mbps; fairness: 0.680
+Global Fairness Index 0.472
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 456.17 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 58.12 Mbps; fairness: 0.666
+Global Fairness Index 0.483
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.873
+Average throughput for S2-R2 flows: 453.61 Mbps; fairness: 0.621
+Average throughput for S3-R1 flows: 40.06 Mbps; fairness: 0.693
+Global Fairness Index 0.483
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 492.36 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 91.18 Mbps; fairness: 0.453
+Global Fairness Index 0.352
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 460.80 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 25.48 Mbps; fairness: 0.482
+Global Fairness Index 0.428
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 454.64 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 92.36 Mbps; fairness: 0.526
+Global Fairness Index 0.376
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 488.37 Mbps; fairness: 0.613
+Average throughput for S3-R1 flows: 36.09 Mbps; fairness: 0.544
+Global Fairness Index 0.443
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 455.78 Mbps; fairness: 0.631
+Average throughput for S3-R1 flows: 95.76 Mbps; fairness: 0.733
+Global Fairness Index 0.467
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 454.12 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 28.43 Mbps; fairness: 0.258
+Global Fairness Index 0.372
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.675
+Average throughput for S2-R2 flows: 490.84 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 91.59 Mbps; fairness: 0.665
+Global Fairness Index 0.447
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.800
+Average throughput for S2-R2 flows: 455.90 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 61.89 Mbps; fairness: 0.216
+Global Fairness Index 0.251
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 458.10 Mbps; fairness: 0.619
+Average throughput for S3-R1 flows: 72.42 Mbps; fairness: 0.588
+Global Fairness Index 0.438
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 486.46 Mbps; fairness: 0.613
+Average throughput for S3-R1 flows: 65.78 Mbps; fairness: 0.394
+Global Fairness Index 0.365
+Aggregate user-level throughput for flows through T1: 0.097 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.33 Mbps; fairness: 0.291
+Average throughput for S2-R2 flows: 457.15 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 40.51 Mbps; fairness: 0.695
+Global Fairness Index 0.484
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 454.10 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 70.49 Mbps; fairness: 0.480
+Global Fairness Index 0.393
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 493.16 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 50.30 Mbps; fairness: 0.438
+Global Fairness Index 0.410
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 459.67 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 97.20 Mbps; fairness: 0.462
+Global Fairness Index 0.338
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 450.60 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 29.12 Mbps; fairness: 0.406
+Global Fairness Index 0.419
+Aggregate user-level throughput for flows through T1: 0.090 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 492.28 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 89.05 Mbps; fairness: 0.349
+Global Fairness Index 0.297
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 456.11 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 53.70 Mbps; fairness: 0.383
+Global Fairness Index 0.379
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 453.12 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 51.36 Mbps; fairness: 0.461
+Global Fairness Index 0.417
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.33 Mbps; fairness: 0.291
+Average throughput for S2-R2 flows: 491.81 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 73.81 Mbps; fairness: 0.528
+Global Fairness Index 0.412
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 455.82 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 32.89 Mbps; fairness: 0.551
+Global Fairness Index 0.454
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 452.22 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 95.52 Mbps; fairness: 0.489
+Global Fairness Index 0.354
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 491.77 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 38.09 Mbps; fairness: 0.335
+Global Fairness Index 0.384
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 457.11 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 98.92 Mbps; fairness: 0.642
+Global Fairness Index 0.425
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 1.06 Mbps; fairness: 0.889
+Average throughput for S2-R2 flows: 452.79 Mbps; fairness: 0.622
+Average throughput for S3-R1 flows: 43.74 Mbps; fairness: 0.387
+Global Fairness Index 0.401
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 492.91 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 96.34 Mbps; fairness: 0.467
+Global Fairness Index 0.351
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 457.20 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 35.43 Mbps; fairness: 0.663
+Global Fairness Index 0.473
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 453.10 Mbps; fairness: 0.622
+Average throughput for S3-R1 flows: 100.64 Mbps; fairness: 0.418
+Global Fairness Index 0.307
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 492.18 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 37.03 Mbps; fairness: 0.394
+Global Fairness Index 0.404
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.53 Mbps; fairness: 0.483
+Average throughput for S2-R2 flows: 456.27 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 97.85 Mbps; fairness: 0.475
+Global Fairness Index 0.344
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.53 Mbps; fairness: 0.483
+Average throughput for S2-R2 flows: 453.04 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 52.63 Mbps; fairness: 0.276
+Global Fairness Index 0.318
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.53 Mbps; fairness: 0.483
+Average throughput for S2-R2 flows: 495.47 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 66.07 Mbps; fairness: 0.620
+Global Fairness Index 0.456
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 456.52 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 53.37 Mbps; fairness: 0.541
+Global Fairness Index 0.447
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 454.68 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 34.61 Mbps; fairness: 0.601
+Global Fairness Index 0.461
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 491.50 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 89.29 Mbps; fairness: 0.552
+Global Fairness Index 0.402
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 455.17 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 28.30 Mbps; fairness: 0.602
+Global Fairness Index 0.449
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 452.73 Mbps; fairness: 0.616
+Average throughput for S3-R1 flows: 120.59 Mbps; fairness: 0.443
+Global Fairness Index 0.293
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.012 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 492.40 Mbps; fairness: 0.602
+Average throughput for S3-R1 flows: 40.71 Mbps; fairness: 0.459
+Global Fairness Index 0.420
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.41 Mbps; fairness: 0.385
+Average throughput for S2-R2 flows: 456.13 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 96.87 Mbps; fairness: 0.460
+Global Fairness Index 0.337
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 454.57 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 37.89 Mbps; fairness: 0.146
+Global Fairness Index 0.263
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 1.11 Mbps; fairness: 0.900
+Average throughput for S2-R2 flows: 491.97 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 97.94 Mbps; fairness: 0.482
+Global Fairness Index 0.357
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 456.44 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 31.70 Mbps; fairness: 0.424
+Global Fairness Index 0.425
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 1.06 Mbps; fairness: 0.889
+Average throughput for S2-R2 flows: 453.20 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 97.94 Mbps; fairness: 0.611
+Global Fairness Index 0.411
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 1.02 Mbps; fairness: 0.880
+Average throughput for S2-R2 flows: 492.05 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 31.17 Mbps; fairness: 0.210
+Global Fairness Index 0.343
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.577
+Average throughput for S2-R2 flows: 460.88 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 88.84 Mbps; fairness: 0.524
+Global Fairness Index 0.385
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 456.03 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 51.45 Mbps; fairness: 0.229
+Global Fairness Index 0.289
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 487.03 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 69.55 Mbps; fairness: 0.655
+Global Fairness Index 0.467
+Aggregate user-level throughput for flows through T1: 0.097 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 457.42 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 65.08 Mbps; fairness: 0.501
+Global Fairness Index 0.414
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 454.53 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 38.09 Mbps; fairness: 0.597
+Global Fairness Index 0.463
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 490.58 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 101.74 Mbps; fairness: 0.614
+Global Fairness Index 0.411
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 456.13 Mbps; fairness: 0.631
+Average throughput for S3-R1 flows: 26.09 Mbps; fairness: 0.288
+Global Fairness Index 0.388
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 453.98 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 92.12 Mbps; fairness: 0.632
+Global Fairness Index 0.428
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.33 Mbps; fairness: 0.291
+Average throughput for S2-R2 flows: 495.84 Mbps; fairness: 0.601
+Average throughput for S3-R1 flows: 57.84 Mbps; fairness: 0.295
+Global Fairness Index 0.324
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 454.02 Mbps; fairness: 0.631
+Average throughput for S3-R1 flows: 72.21 Mbps; fairness: 0.634
+Global Fairness Index 0.459
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 453.59 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 52.84 Mbps; fairness: 0.364
+Global Fairness Index 0.372
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 493.32 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 72.42 Mbps; fairness: 0.582
+Global Fairness Index 0.438
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 455.29 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 62.67 Mbps; fairness: 0.333
+Global Fairness Index 0.331
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 454.53 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 82.08 Mbps; fairness: 0.493
+Global Fairness Index 0.379
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 494.20 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 51.28 Mbps; fairness: 0.321
+Global Fairness Index 0.356
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 458.96 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 63.61 Mbps; fairness: 0.695
+Global Fairness Index 0.488
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.33 Mbps; fairness: 0.291
+Average throughput for S2-R2 flows: 455.02 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 57.18 Mbps; fairness: 0.302
+Global Fairness Index 0.324
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.675
+Average throughput for S2-R2 flows: 491.46 Mbps; fairness: 0.611
+Average throughput for S3-R1 flows: 43.46 Mbps; fairness: 0.588
+Global Fairness Index 0.455
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 457.28 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 81.02 Mbps; fairness: 0.419
+Global Fairness Index 0.344
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.800
+Average throughput for S2-R2 flows: 464.49 Mbps; fairness: 0.616
+Average throughput for S3-R1 flows: 46.74 Mbps; fairness: 0.682
+Global Fairness Index 0.483
+Aggregate user-level throughput for flows through T1: 0.093 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 485.50 Mbps; fairness: 0.617
+Average throughput for S3-R1 flows: 85.85 Mbps; fairness: 0.312
+Global Fairness Index 0.278
+Aggregate user-level throughput for flows through T1: 0.097 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 457.89 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 40.43 Mbps; fairness: 0.637
+Global Fairness Index 0.477
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 454.78 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 95.40 Mbps; fairness: 0.435
+Global Fairness Index 0.325
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.25 Mbps; fairness: 0.200
+Average throughput for S2-R2 flows: 493.22 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 23.18 Mbps; fairness: 0.647
+Global Fairness Index 0.418
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.577
+Average throughput for S2-R2 flows: 457.09 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 93.43 Mbps; fairness: 0.470
+Global Fairness Index 0.349
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 453.98 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 30.27 Mbps; fairness: 0.316
+Global Fairness Index 0.394
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 491.93 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 67.38 Mbps; fairness: 0.677
+Global Fairness Index 0.474
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 456.07 Mbps; fairness: 0.619
+Average throughput for S3-R1 flows: 76.80 Mbps; fairness: 0.358
+Global Fairness Index 0.315
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 453.32 Mbps; fairness: 0.620
+Average throughput for S3-R1 flows: 34.69 Mbps; fairness: 0.558
+Global Fairness Index 0.450
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 491.01 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 91.55 Mbps; fairness: 0.460
+Global Fairness Index 0.353
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 457.56 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 35.18 Mbps; fairness: 0.307
+Global Fairness Index 0.381
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.480
+Average throughput for S2-R2 flows: 453.96 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 72.09 Mbps; fairness: 0.667
+Global Fairness Index 0.468
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 492.28 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 55.75 Mbps; fairness: 0.385
+Global Fairness Index 0.379
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 456.42 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 64.47 Mbps; fairness: 0.422
+Global Fairness Index 0.377
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.480
+Average throughput for S2-R2 flows: 451.03 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 101.62 Mbps; fairness: 0.383
+Global Fairness Index 0.284
+Aggregate user-level throughput for flows through T1: 0.090 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 492.52 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 31.58 Mbps; fairness: 0.558
+Global Fairness Index 0.436
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 455.27 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 93.14 Mbps; fairness: 0.504
+Global Fairness Index 0.367
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 452.81 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 30.97 Mbps; fairness: 0.405
+Global Fairness Index 0.419
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 490.95 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 101.54 Mbps; fairness: 0.569
+Global Fairness Index 0.394
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 455.25 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 19.58 Mbps; fairness: 0.571
+Global Fairness Index 0.424
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 454.27 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 84.30 Mbps; fairness: 0.699
+Global Fairness Index 0.467
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.675
+Average throughput for S2-R2 flows: 490.76 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 42.35 Mbps; fairness: 0.300
+Global Fairness Index 0.363
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 455.23 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 87.00 Mbps; fairness: 0.542
+Global Fairness Index 0.397
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 455.11 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 42.64 Mbps; fairness: 0.338
+Global Fairness Index 0.380
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 492.13 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 69.30 Mbps; fairness: 0.577
+Global Fairness Index 0.441
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 456.07 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 58.82 Mbps; fairness: 0.501
+Global Fairness Index 0.424
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 452.71 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 53.29 Mbps; fairness: 0.540
+Global Fairness Index 0.445
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 491.72 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 72.62 Mbps; fairness: 0.432
+Global Fairness Index 0.371
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 459.51 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 51.28 Mbps; fairness: 0.706
+Global Fairness Index 0.492
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 452.16 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 64.06 Mbps; fairness: 0.476
+Global Fairness Index 0.404
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 491.46 Mbps; fairness: 0.611
+Average throughput for S3-R1 flows: 65.62 Mbps; fairness: 0.649
+Global Fairness Index 0.468
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 460.33 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 53.78 Mbps; fairness: 0.558
+Global Fairness Index 0.451
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.577
+Average throughput for S2-R2 flows: 450.15 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 86.02 Mbps; fairness: 0.673
+Global Fairness Index 0.452
+Aggregate user-level throughput for flows through T1: 0.090 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 493.36 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 48.62 Mbps; fairness: 0.291
+Global Fairness Index 0.345
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.41 Mbps; fairness: 0.385
+Average throughput for S2-R2 flows: 456.70 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 64.22 Mbps; fairness: 0.792
+Global Fairness Index 0.515
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.25 Mbps; fairness: 0.200
+Average throughput for S2-R2 flows: 454.76 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 64.51 Mbps; fairness: 0.446
+Global Fairness Index 0.387
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.800
+Average throughput for S2-R2 flows: 490.50 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 44.28 Mbps; fairness: 0.682
+Global Fairness Index 0.473
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 455.37 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 101.95 Mbps; fairness: 0.385
+Global Fairness Index 0.287
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 454.53 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 27.65 Mbps; fairness: 0.281
+Global Fairness Index 0.382
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 493.38 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 94.41 Mbps; fairness: 0.587
+Global Fairness Index 0.412
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 456.40 Mbps; fairness: 0.631
+Average throughput for S3-R1 flows: 34.65 Mbps; fairness: 0.543
+Global Fairness Index 0.453
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 453.24 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 88.96 Mbps; fairness: 0.618
+Global Fairness Index 0.427
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 492.22 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 20.44 Mbps; fairness: 0.283
+Global Fairness Index 0.378
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.53 Mbps; fairness: 0.483
+Average throughput for S2-R2 flows: 456.72 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 96.26 Mbps; fairness: 0.766
+Global Fairness Index 0.479
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 454.08 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 33.18 Mbps; fairness: 0.206
+Global Fairness Index 0.332
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 491.77 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 87.98 Mbps; fairness: 0.549
+Global Fairness Index 0.403
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 456.72 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 65.74 Mbps; fairness: 0.315
+Global Fairness Index 0.314
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.53 Mbps; fairness: 0.483
+Average throughput for S2-R2 flows: 454.33 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 79.26 Mbps; fairness: 0.754
+Global Fairness Index 0.492
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 494.06 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 52.96 Mbps; fairness: 0.327
+Global Fairness Index 0.355
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 1.15 Mbps; fairness: 0.980
+Average throughput for S2-R2 flows: 455.35 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 91.01 Mbps; fairness: 0.468
+Global Fairness Index 0.353
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 453.94 Mbps; fairness: 0.621
+Average throughput for S3-R1 flows: 72.38 Mbps; fairness: 0.184
+Global Fairness Index 0.198
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 493.90 Mbps; fairness: 0.611
+Average throughput for S3-R1 flows: 35.31 Mbps; fairness: 0.534
+Global Fairness Index 0.436
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.53 Mbps; fairness: 0.483
+Average throughput for S2-R2 flows: 456.81 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 95.44 Mbps; fairness: 0.419
+Global Fairness Index 0.318
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 454.92 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 36.74 Mbps; fairness: 0.425
+Global Fairness Index 0.424
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 491.46 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 96.91 Mbps; fairness: 0.476
+Global Fairness Index 0.354
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 457.28 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 20.73 Mbps; fairness: 0.498
+Global Fairness Index 0.420
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 455.78 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 97.32 Mbps; fairness: 0.505
+Global Fairness Index 0.360
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 492.11 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 84.42 Mbps; fairness: 0.153
+Global Fairness Index 0.161
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 457.40 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 83.11 Mbps; fairness: 0.134
+Global Fairness Index 0.138
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 452.77 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 31.54 Mbps; fairness: 0.221
+Global Fairness Index 0.345
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 491.95 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 108.54 Mbps; fairness: 0.358
+Global Fairness Index 0.271
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.011 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 455.80 Mbps; fairness: 0.632
+Average throughput for S3-R1 flows: 47.51 Mbps; fairness: 0.514
+Global Fairness Index 0.446
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 454.31 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 101.05 Mbps; fairness: 0.478
+Global Fairness Index 0.340
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 491.38 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 31.95 Mbps; fairness: 0.326
+Global Fairness Index 0.388
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 456.85 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 95.15 Mbps; fairness: 0.458
+Global Fairness Index 0.340
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 453.75 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 24.29 Mbps; fairness: 0.439
+Global Fairness Index 0.421
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.577
+Average throughput for S2-R2 flows: 492.36 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 98.43 Mbps; fairness: 0.520
+Global Fairness Index 0.374
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 457.34 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 31.66 Mbps; fairness: 0.667
+Global Fairness Index 0.463
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 452.85 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 100.02 Mbps; fairness: 0.679
+Global Fairness Index 0.436
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 492.99 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 44.52 Mbps; fairness: 0.250
+Global Fairness Index 0.332
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 457.50 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 55.09 Mbps; fairness: 0.528
+Global Fairness Index 0.440
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 454.57 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 81.76 Mbps; fairness: 0.394
+Global Fairness Index 0.327
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.90 Mbps; fairness: 0.781
+Average throughput for S2-R2 flows: 491.95 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 36.90 Mbps; fairness: 0.513
+Global Fairness Index 0.436
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 457.67 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 95.31 Mbps; fairness: 0.514
+Global Fairness Index 0.369
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 453.47 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 39.40 Mbps; fairness: 0.590
+Global Fairness Index 0.464
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.66 Mbps; fairness: 0.582
+Average throughput for S2-R2 flows: 492.69 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 96.05 Mbps; fairness: 0.423
+Global Fairness Index 0.328
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 457.44 Mbps; fairness: 0.631
+Average throughput for S3-R1 flows: 21.22 Mbps; fairness: 0.603
+Global Fairness Index 0.433
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 455.21 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 89.42 Mbps; fairness: 0.675
+Global Fairness Index 0.450
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 491.74 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 44.93 Mbps; fairness: 0.196
+Global Fairness Index 0.292
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 457.01 Mbps; fairness: 0.631
+Average throughput for S3-R1 flows: 94.45 Mbps; fairness: 0.498
+Global Fairness Index 0.363
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 453.18 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 45.51 Mbps; fairness: 0.333
+Global Fairness Index 0.372
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 493.08 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 91.71 Mbps; fairness: 0.563
+Global Fairness Index 0.405
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.25 Mbps; fairness: 0.200
+Average throughput for S2-R2 flows: 455.74 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 83.68 Mbps; fairness: 0.152
+Global Fairness Index 0.152
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 454.04 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 83.89 Mbps; fairness: 0.167
+Global Fairness Index 0.163
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.675
+Average throughput for S2-R2 flows: 490.27 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 23.96 Mbps; fairness: 0.306
+Global Fairness Index 0.385
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 456.25 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 95.56 Mbps; fairness: 0.366
+Global Fairness Index 0.286
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 455.84 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 81.55 Mbps; fairness: 0.533
+Global Fairness Index 0.401
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 492.34 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 50.42 Mbps; fairness: 0.307
+Global Fairness Index 0.351
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 455.39 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 65.13 Mbps; fairness: 0.508
+Global Fairness Index 0.417
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 454.96 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 62.75 Mbps; fairness: 0.340
+Global Fairness Index 0.334
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 491.50 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 71.56 Mbps; fairness: 0.488
+Global Fairness Index 0.399
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 456.56 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 74.67 Mbps; fairness: 0.343
+Global Fairness Index 0.311
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.672
+Average throughput for S2-R2 flows: 453.20 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 68.85 Mbps; fairness: 0.228
+Global Fairness Index 0.242
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 491.52 Mbps; fairness: 0.606
+Average throughput for S3-R1 flows: 70.86 Mbps; fairness: 0.431
+Global Fairness Index 0.374
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 457.22 Mbps; fairness: 0.626
+Average throughput for S3-R1 flows: 71.64 Mbps; fairness: 0.372
+Global Fairness Index 0.335
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 454.12 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 65.21 Mbps; fairness: 0.527
+Global Fairness Index 0.424
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.33 Mbps; fairness: 0.291
+Average throughput for S2-R2 flows: 491.54 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 100.43 Mbps; fairness: 0.370
+Global Fairness Index 0.289
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 456.74 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 22.12 Mbps; fairness: 0.754
+Global Fairness Index 0.442
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 453.55 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 71.11 Mbps; fairness: 0.890
+Global Fairness Index 0.538
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.12 Mbps; fairness: 0.100
+Average throughput for S2-R2 flows: 491.95 Mbps; fairness: 0.613
+Average throughput for S3-R1 flows: 54.35 Mbps; fairness: 0.536
+Global Fairness Index 0.438
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 457.99 Mbps; fairness: 0.632
+Average throughput for S3-R1 flows: 37.19 Mbps; fairness: 0.270
+Global Fairness Index 0.361
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.25 Mbps; fairness: 0.200
+Average throughput for S2-R2 flows: 452.28 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 92.53 Mbps; fairness: 0.556
+Global Fairness Index 0.390
+Aggregate user-level throughput for flows through T1: 0.090 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 491.72 Mbps; fairness: 0.607
+Average throughput for S3-R1 flows: 37.11 Mbps; fairness: 0.184
+Global Fairness Index 0.305
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.86 Mbps; fairness: 0.700
+Average throughput for S2-R2 flows: 456.62 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 82.33 Mbps; fairness: 0.579
+Global Fairness Index 0.421
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 453.24 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 55.58 Mbps; fairness: 0.496
+Global Fairness Index 0.425
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 493.20 Mbps; fairness: 0.611
+Average throughput for S3-R1 flows: 30.35 Mbps; fairness: 0.779
+Global Fairness Index 0.454
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.33 Mbps; fairness: 0.291
+Average throughput for S2-R2 flows: 456.05 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 91.83 Mbps; fairness: 0.425
+Global Fairness Index 0.326
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.20 Mbps; fairness: 0.192
+Average throughput for S2-R2 flows: 452.94 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 24.58 Mbps; fairness: 0.327
+Global Fairness Index 0.395
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.002 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 493.36 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 72.34 Mbps; fairness: 0.676
+Global Fairness Index 0.469
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.45 Mbps; fairness: 0.390
+Average throughput for S2-R2 flows: 457.17 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 70.00 Mbps; fairness: 0.327
+Global Fairness Index 0.310
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.867
+Average throughput for S2-R2 flows: 453.14 Mbps; fairness: 0.627
+Average throughput for S3-R1 flows: 45.92 Mbps; fairness: 0.567
+Global Fairness Index 0.461
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.78 Mbps; fairness: 0.681
+Average throughput for S2-R2 flows: 492.73 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 87.70 Mbps; fairness: 0.423
+Global Fairness Index 0.342
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.57 Mbps; fairness: 0.490
+Average throughput for S2-R2 flows: 457.95 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 28.88 Mbps; fairness: 0.635
+Global Fairness Index 0.455
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 453.24 Mbps; fairness: 0.628
+Average throughput for S3-R1 flows: 95.68 Mbps; fairness: 0.684
+Global Fairness Index 0.446
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 1.06 Mbps; fairness: 0.889
+Average throughput for S2-R2 flows: 492.34 Mbps; fairness: 0.603
+Average throughput for S3-R1 flows: 32.69 Mbps; fairness: 0.300
+Global Fairness Index 0.378
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.003 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.800
+Average throughput for S2-R2 flows: 457.24 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 81.31 Mbps; fairness: 0.635
+Global Fairness Index 0.447
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.600
+Average throughput for S2-R2 flows: 453.67 Mbps; fairness: 0.621
+Average throughput for S3-R1 flows: 57.51 Mbps; fairness: 0.265
+Global Fairness Index 0.298
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.94 Mbps; fairness: 0.790
+Average throughput for S2-R2 flows: 491.54 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 46.08 Mbps; fairness: 0.715
+Global Fairness Index 0.479
+Aggregate user-level throughput for flows through T1: 0.098 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 1.02 Mbps; fairness: 0.880
+Average throughput for S2-R2 flows: 456.60 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 70.04 Mbps; fairness: 0.491
+Global Fairness Index 0.402
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.007 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.873
+Average throughput for S2-R2 flows: 454.23 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 55.42 Mbps; fairness: 0.472
+Global Fairness Index 0.417
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.006 Gbps
+Average throughput for S1-R1 flows: 0.74 Mbps; fairness: 0.675
+Average throughput for S2-R2 flows: 493.34 Mbps; fairness: 0.609
+Average throughput for S3-R1 flows: 78.89 Mbps; fairness: 0.534
+Global Fairness Index 0.411
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.61 Mbps; fairness: 0.500
+Average throughput for S2-R2 flows: 456.21 Mbps; fairness: 0.630
+Average throughput for S3-R1 flows: 52.59 Mbps; fairness: 0.644
+Global Fairness Index 0.479
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 454.64 Mbps; fairness: 0.625
+Average throughput for S3-R1 flows: 74.67 Mbps; fairness: 0.373
+Global Fairness Index 0.328
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.008 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 493.08 Mbps; fairness: 0.605
+Average throughput for S3-R1 flows: 46.82 Mbps; fairness: 0.347
+Global Fairness Index 0.376
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.005 Gbps
+Average throughput for S1-R1 flows: 0.37 Mbps; fairness: 0.300
+Average throughput for S2-R2 flows: 457.77 Mbps; fairness: 0.623
+Average throughput for S3-R1 flows: 93.18 Mbps; fairness: 0.603
+Global Fairness Index 0.413
+Aggregate user-level throughput for flows through T1: 0.092 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.82 Mbps; fairness: 0.690
+Average throughput for S2-R2 flows: 450.42 Mbps; fairness: 0.629
+Average throughput for S3-R1 flows: 34.69 Mbps; fairness: 0.496
+Global Fairness Index 0.444
+Aggregate user-level throughput for flows through T1: 0.090 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 493.08 Mbps; fairness: 0.610
+Average throughput for S3-R1 flows: 89.17 Mbps; fairness: 0.607
+Global Fairness Index 0.428
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.009 Gbps
+Average throughput for S1-R1 flows: 0.49 Mbps; fairness: 0.400
+Average throughput for S2-R2 flows: 456.60 Mbps; fairness: 0.618
+Average throughput for S3-R1 flows: 44.36 Mbps; fairness: 0.275
+Global Fairness Index 0.340
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps
+Average throughput for S1-R1 flows: 0.70 Mbps; fairness: 0.590
+Average throughput for S2-R2 flows: 452.65 Mbps; fairness: 0.624
+Average throughput for S3-R1 flows: 94.49 Mbps; fairness: 0.537
+Global Fairness Index 0.379
+Aggregate user-level throughput for flows through T1: 0.091 Gbps
+Aggregate user-level throughput for flows to R1: 0.010 Gbps
+Average throughput for S1-R1 flows: 0.98 Mbps; fairness: 0.873
+Average throughput for S2-R2 flows: 493.42 Mbps; fairness: 0.608
+Average throughput for S3-R1 flows: 42.84 Mbps; fairness: 0.333
+Global Fairness Index 0.379
+Aggregate user-level throughput for flows through T1: 0.099 Gbps
+Aggregate user-level throughput for flows to R1: 0.004 Gbps

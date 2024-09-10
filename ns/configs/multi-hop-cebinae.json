@@ -1,0 +1,24 @@
+{
+    "instance_type": "multi-hop-cebinae",
+    "batch_params": [
+        "queueDiscTypeId",
+        "outputFilePath"
+    ],
+    "batch_size": 2,
+    "queueDiscTypeId": [
+        "CebinaeQueueDisc",
+        "RedQueueDisc"
+    ],
+    "outputFilePath": [
+        "tmp_index/multi-hop-cebinae/cebinae/",
+        "tmp_index/multi-hop-cebinae/red/"
+    ],
+
+    "vdt": "1ns",
+    "delta_port": 0.01,
+    "delta_flow": 0.01,
+    "tau": 0.01,
+    "p": 4,
+    "l": "10000ns",
+    "dt": "1.2ms"
+}

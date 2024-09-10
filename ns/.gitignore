@@ -39,3 +39,4 @@ build/
 
 version.cache
 
+!tmp_index/*-cebinae/cebinae/*.dat
